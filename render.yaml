@@ -4,8 +4,7 @@ services:
     env: docker
     plan: free # Hoặc chọn plan phù hợp với bạn
     dockerfilePath: ./Dockerfile
-    healthCheck:
-      path: /health
+    healthCheckPath: /health
     envVars:
       - key: PORT
         value: 6969
