@@ -1,0 +1,2862 @@
+{
+  "text": "CHY CTY CP BB HUE TÀI DA LAT\nPALLA\nQuang truong Lam Vien, P10, TP Dalat\nMa so thue: 3300854978\nSo ĐT: 0263 3545088\nHotline: 1900 1880\nPHIEU TINH TIEN\nDescriptions\nVAT\nFF XÃ LACH LO LO XAN\n1.000 BIC X\n10,000\n10,000\nDUI GA GOC TU NUONG\n5\n0.428 Kg\nX\n155,000\n66,340\nCOM CHIẾN DUONG\nSCHAU\n5\n0.244 Kg X\n75,000\n18,300\nMI S.YANG TRON\nTUONG\n5\n1\nHũ X\n27,600\n27,600\nMI TRON OMACHI\nTHIT\n5\n2\nGói x\n8,600\n17,200\nCHANH DAY\n1\n0.308\nKg\nx\n28,800\n8,870\nSC NUTI\nNHÀ DÂM 100G\n5\n1\nLốc\nX\n29,500\n29,500\nKIM CHI\nINS\nCAI T\nTHAO 100\n5\n1.000 BIC X\n14,000\n14,000\nMIT CAT MIENG\n1\n0.528 Kg X\n29,000\n15,312\nCUOC VANG KHONG\nTRAY\n5\nI\nCái x\n9,000\n9,000\n1\nTR. GA NĂM HAI VI\nh\n1\n1\n1\nVi X\n18,500\n18,500\nVND\n234,622\nTÔNG CỘNG",
+  "layout": "invoice",
+  "pages": [
+    {
+      "page": 1,
+      "text": "CHY CTY CP BB HUE TÀI DA LAT\nPALLA\nQuang truong Lam Vien, P10, TP Dalat\nMa so thue: 3300854978\nSo ĐT: 0263 3545088\nHotline: 1900 1880\nPHIEU TINH TIEN\nDescriptions\nVAT\nFF XÃ LACH LO LO XAN\n1.000 BIC X\n10,000\n10,000\nDUI GA GOC TU NUONG\n5\n0.428 Kg\nX\n155,000\n66,340\nCOM CHIẾN DUONG\nSCHAU\n5\n0.244 Kg X\n75,000\n18,300\nMI S.YANG TRON\nTUONG\n5\n1\nHũ X\n27,600\n27,600\nMI TRON OMACHI\nTHIT\n5\n2\nGói x\n8,600\n17,200\nCHANH DAY\n1\n0.308\nKg\nx\n28,800\n8,870\nSC NUTI\nNHÀ DÂM 100G\n5\n1\nLốc\nX\n29,500\n29,500\nKIM CHI\nINS\nCAI T\nTHAO 100\n5\n1.000 BIC X\n14,000\n14,000\nMIT CAT MIENG\n1\n0.528 Kg X\n29,000\n15,312\nCUOC VANG KHONG\nTRAY\n5\nI\nCái x\n9,000\n9,000\n1\nTR. GA NĂM HAI VI\nh\n1\n1\n1\nVi X\n18,500\n18,500\nVND\n234,622\nTÔNG CỘNG",
+      "invoice": {
+        "layout_config": {
+          "type": "invoice",
+          "sections": {
+            "header": {
+              "description": "Store/vendor, title, address, contact, invoice metadata."
+            },
+            "items": {
+              "description": "Purchased goods/services, quantities, unit prices, and line totals."
+            },
+            "totals": {
+              "description": "Subtotal, tax, fees, total, payment, and remaining amount.",
+              "keywords": [
+                "tong",
+                "tong cong",
+                "thanh toan",
+                "khach dua",
+                "no lai",
+                "tien nuoc",
+                "thue",
+                "vat",
+                "gtgt",
+                "phi",
+                "phu phi",
+                "tieu thu"
+              ]
+            },
+            "footer": {
+              "description": "Cashier/staff, thanks text, print time, website, and hotline.",
+              "keywords": [
+                "cam on",
+                "nhan vien",
+                "dien thoai",
+                "ngay gui",
+                "in luc",
+                "hotline",
+                "www"
+              ]
+            }
+          },
+          "item_header_keywords": [
+            "description",
+            "dien giai",
+            "ten hang",
+            "mat hang",
+            "don gia",
+            "so luong",
+            "qty"
+          ]
+        },
+        "image": {
+          "width": 773,
+          "height": 785
+        },
+        "text": "CHY CTY CP BB HUE TÀI DA LAT\nPALLA\nQuang truong Lam Vien, P10, TP Dalat\nMa so thue: 3300854978\nSo ĐT: 0263 3545088\nHotline: 1900 1880\nPHIEU TINH TIEN\nDescriptions\nVAT\nFF XÃ LACH LO LO XAN\n1.000 BIC X\n10,000\n10,000\nDUI GA GOC TU NUONG\n5\n0.428 Kg\nX\n155,000\n66,340\nCOM CHIẾN DUONG\nSCHAU\n5\n0.244 Kg X\n75,000\n18,300\nMI S.YANG TRON\nTUONG\n5\n1\nHũ X\n27,600\n27,600\nMI TRON OMACHI\nTHIT\n5\n2\nGói x\n8,600\n17,200\nCHANH DAY\n1\n0.308\nKg\nx\n28,800\n8,870\nSC NUTI\nNHÀ DÂM 100G\n5\n1\nLốc\nX\n29,500\n29,500\nKIM CHI\nINS\nCAI T\nTHAO 100\n5\n1.000 BIC X\n14,000\n14,000\nMIT CAT MIENG\n1\n0.528 Kg X\n29,000\n15,312\nCUOC VANG KHONG\nTRAY\n5\nI\nCái x\n9,000\n9,000\n1\nTR. GA NĂM HAI VI\nh\n1\n1\n1\nVi X\n18,500\n18,500\nVND\n234,622\nTÔNG CỘNG",
+        "fields": {
+          "dates": [],
+          "phones": ["02633545088"],
+          "tax_code": "3300854978",
+          "total_amount": {
+            "value": 234622,
+            "raw": "234,622",
+            "line": "TÔNG CỘNG VND 234,622",
+            "bbox": [150, 704, 632, 762]
+          }
+        },
+        "sections": {
+          "header": {
+            "text": "CHY CTY CP BB HUE TÀI DA LAT PALLA\nQuang truong Lam Vien, P10, TP Dalat\nMa so thue: 3300854978\nSo ĐT: 0263 3545088\nHotline: 1900 1880\nPHIEU TINH TIEN\nDescriptions VAT\nFF XÃ LACH LO LO XAN",
+            "bbox": [158, 5, 633, 206],
+            "lines": [
+              {
+                "index": 0,
+                "text": "CHY CTY CP BB HUE TÀI DA LAT PALLA",
+                "bbox": [232, 5, 553, 36],
+                "boxes": [
+                  {
+                    "text": "CHY CTY CP BB HUE TÀI DA LAT",
+                    "bbox": [232, 6, 553, 36],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "PALLA",
+                    "bbox": [388, 5, 453, 16],
+                    "type": "ocr",
+                    "score": 1
+                  }
+                ]
+              },
+              {
+                "index": 1,
+                "text": "Quang truong Lam Vien, P10, TP Dalat",
+                "bbox": [189, 25, 610, 62],
+                "boxes": [
+                  {
+                    "text": "Quang truong Lam Vien, P10, TP Dalat",
+                    "bbox": [189, 25, 610, 62],
+                    "type": "ocr",
+                    "score": 1
+                  }
+                ]
+              },
+              {
+                "index": 2,
+                "text": "Ma so thue: 3300854978",
+                "bbox": [216, 55, 575, 84],
+                "boxes": [
+                  {
+                    "text": "Ma so thue: 3300854978",
+                    "bbox": [216, 55, 575, 84],
+                    "type": "ocr",
+                    "score": 1
+                  }
+                ]
+              },
+              {
+                "index": 3,
+                "text": "So ĐT: 0263 3545088",
+                "bbox": [280, 82, 505, 106],
+                "boxes": [
+                  {
+                    "text": "So ĐT: 0263 3545088",
+                    "bbox": [280, 82, 505, 106],
+                    "type": "ocr",
+                    "score": 1
+                  }
+                ]
+              },
+              {
+                "index": 4,
+                "text": "Hotline: 1900 1880",
+                "bbox": [291, 106, 505, 129],
+                "boxes": [
+                  {
+                    "text": "Hotline: 1900 1880",
+                    "bbox": [291, 106, 505, 129],
+                    "type": "ocr",
+                    "score": 1
+                  }
+                ]
+              },
+              {
+                "index": 5,
+                "text": "PHIEU TINH TIEN",
+                "bbox": [304, 128, 483, 152],
+                "boxes": [
+                  {
+                    "text": "PHIEU TINH TIEN",
+                    "bbox": [304, 128, 483, 152],
+                    "type": "ocr",
+                    "score": 1
+                  }
+                ]
+              },
+              {
+                "index": 6,
+                "text": "Descriptions VAT",
+                "bbox": [158, 143, 633, 179],
+                "boxes": [
+                  {
+                    "text": "Descriptions",
+                    "bbox": [158, 143, 295, 167],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "VAT",
+                    "bbox": [594, 151, 633, 179],
+                    "type": "ocr",
+                    "score": 1
+                  }
+                ]
+              },
+              {
+                "index": 7,
+                "text": "FF XÃ LACH LO LO XAN",
+                "bbox": [159, 182, 401, 206],
+                "boxes": [
+                  {
+                    "text": "FF XÃ LACH LO LO XAN",
+                    "bbox": [159, 182, 401, 206],
+                    "type": "ocr",
+                    "score": 1
+                  }
+                ]
+              }
+            ]
+          },
+          "items": {
+            "text": "1.000 BIC X 10,000 10,000\nDUI GA GOC TU NUONG 5\n0.428 Kg X 155,000 66,340\nCOM CHIẾN DUONG SCHAU 5\n0.244 Kg X 75,000 18,300\nMI S.YANG TRON TUONG 5\n1 Hũ X 27,600 27,600\nMI TRON OMACHI THIT 5\n2 Gói x 8,600 17,200\nCHANH DAY 1\n0.308 Kg x 28,800 8,870\nSC NUTI NHÀ DÂM 100G 5\n1 Lốc X 29,500 29,500\nKIM CHI INS CAI T THAO 100 5\n1.000 BIC X 14,000 14,000\nMIT CAT MIENG 1\n0.528 Kg X 29,000 15,312\nCUOC VANG KHONG I TRAY 5\n1 Cái x 9,000 9,000\nTR. GA NĂM HAI VI 1 h 1\n1 Vi X 18,500 18,500",
+            "bbox": [152, 208, 632, 700],
+            "lines": [
+              {
+                "index": 8,
+                "text": "1.000 BIC X 10,000 10,000",
+                "bbox": [184, 208, 632, 237],
+                "boxes": [
+                  {
+                    "text": "1.000 BIC X",
+                    "bbox": [184, 208, 330, 228],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "10,000",
+                    "bbox": [389, 214, 458, 236],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "10,000",
+                    "bbox": [564, 213, 632, 237],
+                    "type": "ocr",
+                    "score": 1
+                  }
+                ]
+              },
+              {
+                "index": 9,
+                "text": "DUI GA GOC TU NUONG 5",
+                "bbox": [157, 230, 624, 260],
+                "boxes": [
+                  {
+                    "text": "DUI GA GOC TU NUONG",
+                    "bbox": [157, 230, 391, 254],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "5",
+                    "bbox": [603, 236, 624, 260],
+                    "type": "ocr",
+                    "score": 1
+                  }
+                ]
+              },
+              {
+                "index": 10,
+                "text": "0.428 Kg X 155,000 66,340",
+                "bbox": [183, 255, 631, 285],
+                "boxes": [
+                  {
+                    "text": "0.428 Kg",
+                    "bbox": [183, 255, 298, 275],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "X",
+                    "bbox": [293, 261, 331, 279],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "155,000",
+                    "bbox": [376, 259, 458, 283],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "66,340",
+                    "bbox": [561, 260, 631, 285],
+                    "type": "ocr",
+                    "score": 1
+                  }
+                ]
+              },
+              {
+                "index": 11,
+                "text": "COM CHIẾN DUONG SCHAU 5",
+                "bbox": [158, 279, 623, 305],
+                "boxes": [
+                  {
+                    "text": "COM CHIẾN DUONG",
+                    "bbox": [158, 279, 347, 301],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "SCHAU",
+                    "bbox": [337, 286, 400, 303],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "5",
+                    "bbox": [604, 285, 623, 305],
+                    "type": "ocr",
+                    "score": 1
+                  }
+                ]
+              },
+              {
+                "index": 12,
+                "text": "0.244 Kg X 75,000 18,300",
+                "bbox": [182, 301, 631, 330],
+                "boxes": [
+                  {
+                    "text": "0.244 Kg X",
+                    "bbox": [182, 301, 332, 324],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "75,000",
+                    "bbox": [386, 304, 459, 329],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "18,300",
+                    "bbox": [562, 305, 631, 330],
+                    "type": "ocr",
+                    "score": 1
+                  }
+                ]
+              },
+              {
+                "index": 13,
+                "text": "MI S.YANG TRON TUONG 5",
+                "bbox": [158, 326, 622, 351],
+                "boxes": [
+                  {
+                    "text": "MI S.YANG TRON",
+                    "bbox": [158, 326, 333, 349],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "TUONG",
+                    "bbox": [339, 330, 402, 351],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "5",
+                    "bbox": [605, 331, 622, 351],
+                    "type": "ocr",
+                    "score": 1
+                  }
+                ]
+              },
+              {
+                "index": 14,
+                "text": "1 Hũ X 27,600 27,600",
+                "bbox": [198, 349, 632, 376],
+                "boxes": [
+                  {
+                    "text": "1",
+                    "bbox": [198, 352, 212, 369],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "Hũ X",
+                    "bbox": [268, 350, 332, 375],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "27,600",
+                    "bbox": [385, 349, 459, 374],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "27,600",
+                    "bbox": [561, 351, 632, 376],
+                    "type": "ocr",
+                    "score": 1
+                  }
+                ]
+              },
+              {
+                "index": 15,
+                "text": "MI TRON OMACHI THIT 5",
+                "bbox": [157, 372, 621, 396],
+                "boxes": [
+                  {
+                    "text": "MI TRON OMACHI",
+                    "bbox": [157, 372, 334, 395],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "THIT",
+                    "bbox": [328, 376, 386, 396],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "5",
+                    "bbox": [604, 376, 621, 396],
+                    "type": "ocr",
+                    "score": 1
+                  }
+                ]
+              },
+              {
+                "index": 16,
+                "text": "2 Gói x 8,600 17,200",
+                "bbox": [194, 394, 631, 421],
+                "boxes": [
+                  {
+                    "text": "2",
+                    "bbox": [194, 396, 217, 418],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "Gói x",
+                    "bbox": [256, 394, 334, 419],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "8,600",
+                    "bbox": [398, 396, 459, 421],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "17,200",
+                    "bbox": [562, 396, 631, 421],
+                    "type": "ocr",
+                    "score": 1
+                  }
+                ]
+              },
+              {
+                "index": 17,
+                "text": "CHANH DAY 1",
+                "bbox": [159, 418, 617, 441],
+                "boxes": [
+                  {
+                    "text": "CHANH DAY",
+                    "bbox": [159, 418, 271, 441],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "1",
+                    "bbox": [609, 427, 617, 437],
+                    "type": "ocr",
+                    "score": 1
+                  }
+                ]
+              },
+              {
+                "index": 18,
+                "text": "0.308 Kg x 28,800 8,870",
+                "bbox": [183, 439, 631, 466],
+                "boxes": [
+                  {
+                    "text": "0.308",
+                    "bbox": [183, 444, 250, 464],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "Kg",
+                    "bbox": [240, 444, 298, 465],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "x",
+                    "bbox": [293, 445, 330, 464],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "28,800",
+                    "bbox": [386, 439, 458, 465],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "8,870",
+                    "bbox": [571, 442, 631, 466],
+                    "type": "ocr",
+                    "score": 1
+                  }
+                ]
+              },
+              {
+                "index": 19,
+                "text": "SC NUTI NHÀ DÂM 100G 5",
+                "bbox": [159, 466, 623, 488],
+                "boxes": [
+                  {
+                    "text": "SC NUTI",
+                    "bbox": [159, 466, 249, 487],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "NHÀ DÂM 100G",
+                    "bbox": [255, 467, 400, 488],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "5",
+                    "bbox": [604, 467, 623, 487],
+                    "type": "ocr",
+                    "score": 1
+                  }
+                ]
+              },
+              {
+                "index": 20,
+                "text": "1 Lốc X 29,500 29,500",
+                "bbox": [195, 487, 631, 511],
+                "boxes": [
+                  {
+                    "text": "1",
+                    "bbox": [195, 491, 207, 505],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "Lốc",
+                    "bbox": [255, 489, 298, 511],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "X",
+                    "bbox": [297, 491, 330, 510],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "29,500",
+                    "bbox": [386, 489, 456, 510],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "29,500",
+                    "bbox": [561, 487, 631, 511],
+                    "type": "ocr",
+                    "score": 1
+                  }
+                ]
+              },
+              {
+                "index": 21,
+                "text": "KIM CHI INS CAI T THAO 100 5",
+                "bbox": [157, 511, 623, 534],
+                "boxes": [
+                  {
+                    "text": "KIM CHI",
+                    "bbox": [157, 513, 246, 534],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "INS",
+                    "bbox": [244, 519, 255, 526],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "CAI T",
+                    "bbox": [252, 511, 311, 533],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "THAO 100",
+                    "bbox": [301, 513, 401, 534],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "5",
+                    "bbox": [605, 511, 623, 532],
+                    "type": "ocr",
+                    "score": 1
+                  }
+                ]
+              },
+              {
+                "index": 22,
+                "text": "1.000 BIC X 14,000 14,000",
+                "bbox": [181, 532, 631, 558],
+                "boxes": [
+                  {
+                    "text": "1.000 BIC X",
+                    "bbox": [181, 532, 331, 556],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "14,000",
+                    "bbox": [386, 533, 458, 558],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "14,000",
+                    "bbox": [560, 533, 631, 558],
+                    "type": "ocr",
+                    "score": 1
+                  }
+                ]
+              },
+              {
+                "index": 23,
+                "text": "MIT CAT MIENG 1",
+                "bbox": [155, 556, 620, 582],
+                "boxes": [
+                  {
+                    "text": "MIT CAT MIENG",
+                    "bbox": [155, 558, 317, 582],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "1",
+                    "bbox": [606, 556, 620, 572],
+                    "type": "ocr",
+                    "score": 1
+                  }
+                ]
+              },
+              {
+                "index": 24,
+                "text": "0.528 Kg X 29,000 15,312",
+                "bbox": [178, 577, 631, 605],
+                "boxes": [
+                  {
+                    "text": "0.528 Kg X",
+                    "bbox": [178, 582, 329, 605],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "29,000",
+                    "bbox": [384, 579, 457, 604],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "15,312",
+                    "bbox": [560, 577, 631, 602],
+                    "type": "ocr",
+                    "score": 1
+                  }
+                ]
+              },
+              {
+                "index": 25,
+                "text": "CUOC VANG KHONG I TRAY 5",
+                "bbox": [152, 601, 623, 631],
+                "boxes": [
+                  {
+                    "text": "CUOC VANG KHONG",
+                    "bbox": [152, 608, 341, 631],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "I",
+                    "bbox": [342, 611, 351, 620],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "TRAY",
+                    "bbox": [345, 606, 398, 627],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "5",
+                    "bbox": [604, 601, 623, 621],
+                    "type": "ocr",
+                    "score": 1
+                  }
+                ]
+              },
+              {
+                "index": 26,
+                "text": "1 Cái x 9,000 9,000",
+                "bbox": [191, 623, 631, 652],
+                "boxes": [
+                  {
+                    "text": "1",
+                    "bbox": [191, 635, 203, 649],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "Cái x",
+                    "bbox": [253, 630, 328, 652],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "9,000",
+                    "bbox": [392, 626, 457, 652],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "9,000",
+                    "bbox": [569, 623, 631, 648],
+                    "type": "ocr",
+                    "score": 1
+                  }
+                ]
+              },
+              {
+                "index": 27,
+                "text": "TR. GA NĂM HAI VI 1 h 1",
+                "bbox": [152, 648, 618, 678],
+                "boxes": [
+                  {
+                    "text": "TR. GA NĂM HAI VI",
+                    "bbox": [152, 655, 353, 678],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "1",
+                    "bbox": [353, 659, 358, 666],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "h",
+                    "bbox": [360, 657, 369, 669],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "1",
+                    "bbox": [606, 648, 618, 662],
+                    "type": "ocr",
+                    "score": 1
+                  }
+                ]
+              },
+              {
+                "index": 28,
+                "text": "1 Vi X 18,500 18,500",
+                "bbox": [188, 669, 630, 700],
+                "boxes": [
+                  {
+                    "text": "1",
+                    "bbox": [188, 678, 205, 699],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "Vi X",
+                    "bbox": [262, 673, 328, 698],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "18,500",
+                    "bbox": [382, 672, 455, 700],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "18,500",
+                    "bbox": [558, 669, 630, 694],
+                    "type": "ocr",
+                    "score": 1
+                  }
+                ]
+              }
+            ]
+          },
+          "totals": {
+            "text": "TÔNG CỘNG VND 234,622",
+            "bbox": [150, 704, 632, 762],
+            "lines": [
+              {
+                "index": 29,
+                "text": "TÔNG CỘNG VND 234,622",
+                "bbox": [150, 704, 632, 762],
+                "boxes": [
+                  {
+                    "text": "TÔNG CỘNG",
+                    "bbox": [150, 714, 264, 762],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "VND",
+                    "bbox": [405, 710, 443, 755],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "234,622",
+                    "bbox": [540, 704, 632, 757],
+                    "type": "ocr",
+                    "score": 1
+                  }
+                ]
+              }
+            ]
+          },
+          "footer": {
+            "text": "",
+            "bbox": null,
+            "lines": []
+          }
+        },
+        "items": [
+          {
+            "name": "000 BIC X 10,000",
+            "quantity": "1.000",
+            "unit_price": 10000,
+            "line_total": 10000,
+            "raw_text": "1.000 BIC X 10,000 10,000",
+            "bbox": [184, 208, 632, 237]
+          },
+          {
+            "name": "DUI GA GOC TU NUONG 5 0.428 Kg X 155,000",
+            "quantity": "0.428",
+            "unit_price": 155000,
+            "line_total": 66340,
+            "raw_text": "0.428 Kg X 155,000 66,340",
+            "bbox": [183, 255, 631, 285]
+          },
+          {
+            "name": "COM CHIẾN DUONG SCHAU 5 0.244 Kg X 75,000",
+            "quantity": "0.244",
+            "unit_price": 75000,
+            "line_total": 18300,
+            "raw_text": "0.244 Kg X 75,000 18,300",
+            "bbox": [182, 301, 631, 330]
+          },
+          {
+            "name": "MI S.YANG TRON TUONG 5 1 Hũ X 27,600",
+            "quantity": "1",
+            "unit_price": 27600,
+            "line_total": 27600,
+            "raw_text": "1 Hũ X 27,600 27,600",
+            "bbox": [198, 349, 632, 376]
+          },
+          {
+            "name": "MI TRON OMACHI THIT 5 2 Gói x 8,600",
+            "quantity": "2",
+            "unit_price": 8600,
+            "line_total": 17200,
+            "raw_text": "2 Gói x 8,600 17,200",
+            "bbox": [194, 394, 631, 421]
+          },
+          {
+            "name": "CHANH DAY 1 0.308 Kg x 28,800",
+            "quantity": "0.308",
+            "unit_price": 28800,
+            "line_total": 8870,
+            "raw_text": "0.308 Kg x 28,800 8,870",
+            "bbox": [183, 439, 631, 466]
+          },
+          {
+            "name": "SC NUTI NHÀ DÂM 100G 5 1 Lốc X 29,500",
+            "quantity": null,
+            "unit_price": 29500,
+            "line_total": 29500,
+            "raw_text": "1 Lốc X 29,500 29,500",
+            "bbox": [195, 487, 631, 511]
+          },
+          {
+            "name": "KIM CHI INS CAI T THAO 100 5 1.000 BIC X 14,000",
+            "quantity": "1.000",
+            "unit_price": 14000,
+            "line_total": 14000,
+            "raw_text": "1.000 BIC X 14,000 14,000",
+            "bbox": [181, 532, 631, 558]
+          },
+          {
+            "name": "MIT CAT MIENG 1 0.528 Kg X 29,000",
+            "quantity": "0.528",
+            "unit_price": 29000,
+            "line_total": 15312,
+            "raw_text": "0.528 Kg X 29,000 15,312",
+            "bbox": [178, 577, 631, 605]
+          },
+          {
+            "name": "CUOC VANG KHONG I TRAY 5 1 Cái x 9,000",
+            "quantity": "1",
+            "unit_price": 9000,
+            "line_total": 9000,
+            "raw_text": "1 Cái x 9,000 9,000",
+            "bbox": [191, 623, 631, 652]
+          },
+          {
+            "name": "TR. GA NĂM HAI VI 1 h 1 1 Vi X 18,500",
+            "quantity": "1",
+            "unit_price": 18500,
+            "line_total": 18500,
+            "raw_text": "1 Vi X 18,500 18,500",
+            "bbox": [188, 669, 630, 700]
+          }
+        ],
+        "boxes": [
+          {
+            "text": "CHY CTY CP BB HUE TÀI DA LAT",
+            "bbox": [232, 6, 553, 36],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "PALLA",
+            "bbox": [388, 5, 453, 16],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "Quang truong Lam Vien, P10, TP Dalat",
+            "bbox": [189, 25, 610, 62],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "Ma so thue: 3300854978",
+            "bbox": [216, 55, 575, 84],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "So ĐT: 0263 3545088",
+            "bbox": [280, 82, 505, 106],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "Hotline: 1900 1880",
+            "bbox": [291, 106, 505, 129],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "PHIEU TINH TIEN",
+            "bbox": [304, 128, 483, 152],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "Descriptions",
+            "bbox": [158, 143, 295, 167],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "VAT",
+            "bbox": [594, 151, 633, 179],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "FF XÃ LACH LO LO XAN",
+            "bbox": [159, 182, 401, 206],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "1.000 BIC X",
+            "bbox": [184, 208, 330, 228],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "10,000",
+            "bbox": [389, 214, 458, 236],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "10,000",
+            "bbox": [564, 213, 632, 237],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "DUI GA GOC TU NUONG",
+            "bbox": [157, 230, 391, 254],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "5",
+            "bbox": [603, 236, 624, 260],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "0.428 Kg",
+            "bbox": [183, 255, 298, 275],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "X",
+            "bbox": [293, 261, 331, 279],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "155,000",
+            "bbox": [376, 259, 458, 283],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "66,340",
+            "bbox": [561, 260, 631, 285],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "COM CHIẾN DUONG",
+            "bbox": [158, 279, 347, 301],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "SCHAU",
+            "bbox": [337, 286, 400, 303],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "5",
+            "bbox": [604, 285, 623, 305],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "0.244 Kg X",
+            "bbox": [182, 301, 332, 324],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "75,000",
+            "bbox": [386, 304, 459, 329],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "18,300",
+            "bbox": [562, 305, 631, 330],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "MI S.YANG TRON",
+            "bbox": [158, 326, 333, 349],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "TUONG",
+            "bbox": [339, 330, 402, 351],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "5",
+            "bbox": [605, 331, 622, 351],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "1",
+            "bbox": [198, 352, 212, 369],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "Hũ X",
+            "bbox": [268, 350, 332, 375],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "27,600",
+            "bbox": [385, 349, 459, 374],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "27,600",
+            "bbox": [561, 351, 632, 376],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "MI TRON OMACHI",
+            "bbox": [157, 372, 334, 395],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "THIT",
+            "bbox": [328, 376, 386, 396],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "5",
+            "bbox": [604, 376, 621, 396],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "2",
+            "bbox": [194, 396, 217, 418],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "Gói x",
+            "bbox": [256, 394, 334, 419],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "8,600",
+            "bbox": [398, 396, 459, 421],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "17,200",
+            "bbox": [562, 396, 631, 421],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "CHANH DAY",
+            "bbox": [159, 418, 271, 441],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "1",
+            "bbox": [609, 427, 617, 437],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "0.308",
+            "bbox": [183, 444, 250, 464],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "Kg",
+            "bbox": [240, 444, 298, 465],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "x",
+            "bbox": [293, 445, 330, 464],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "28,800",
+            "bbox": [386, 439, 458, 465],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "8,870",
+            "bbox": [571, 442, 631, 466],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "SC NUTI",
+            "bbox": [159, 466, 249, 487],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "NHÀ DÂM 100G",
+            "bbox": [255, 467, 400, 488],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "5",
+            "bbox": [604, 467, 623, 487],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "1",
+            "bbox": [195, 491, 207, 505],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "Lốc",
+            "bbox": [255, 489, 298, 511],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "X",
+            "bbox": [297, 491, 330, 510],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "29,500",
+            "bbox": [386, 489, 456, 510],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "29,500",
+            "bbox": [561, 487, 631, 511],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "KIM CHI",
+            "bbox": [157, 513, 246, 534],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "INS",
+            "bbox": [244, 519, 255, 526],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "CAI T",
+            "bbox": [252, 511, 311, 533],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "THAO 100",
+            "bbox": [301, 513, 401, 534],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "5",
+            "bbox": [605, 511, 623, 532],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "1.000 BIC X",
+            "bbox": [181, 532, 331, 556],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "14,000",
+            "bbox": [386, 533, 458, 558],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "14,000",
+            "bbox": [560, 533, 631, 558],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "MIT CAT MIENG",
+            "bbox": [155, 558, 317, 582],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "1",
+            "bbox": [606, 556, 620, 572],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "0.528 Kg X",
+            "bbox": [178, 582, 329, 605],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "29,000",
+            "bbox": [384, 579, 457, 604],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "15,312",
+            "bbox": [560, 577, 631, 602],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "CUOC VANG KHONG",
+            "bbox": [152, 608, 341, 631],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "TRAY",
+            "bbox": [345, 606, 398, 627],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "5",
+            "bbox": [604, 601, 623, 621],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "I",
+            "bbox": [342, 611, 351, 620],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "Cái x",
+            "bbox": [253, 630, 328, 652],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "9,000",
+            "bbox": [392, 626, 457, 652],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "9,000",
+            "bbox": [569, 623, 631, 648],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "1",
+            "bbox": [191, 635, 203, 649],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "TR. GA NĂM HAI VI",
+            "bbox": [152, 655, 353, 678],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "h",
+            "bbox": [360, 657, 369, 669],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "1",
+            "bbox": [606, 648, 618, 662],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "1",
+            "bbox": [353, 659, 358, 666],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "1",
+            "bbox": [188, 678, 205, 699],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "Vi X",
+            "bbox": [262, 673, 328, 698],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "18,500",
+            "bbox": [382, 672, 455, 700],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "18,500",
+            "bbox": [558, 669, 630, 694],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "VND",
+            "bbox": [405, 710, 443, 755],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "234,622",
+            "bbox": [540, 704, 632, 757],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "TÔNG CỘNG",
+            "bbox": [150, 714, 264, 762],
+            "type": "ocr",
+            "score": 1
+          }
+        ]
+      }
+    }
+  ],
+  "invoice": {
+    "layout_config": {
+      "type": "invoice",
+      "sections": {
+        "header": {
+          "description": "Store/vendor, title, address, contact, invoice metadata."
+        },
+        "items": {
+          "description": "Purchased goods/services, quantities, unit prices, and line totals."
+        },
+        "totals": {
+          "description": "Subtotal, tax, fees, total, payment, and remaining amount.",
+          "keywords": [
+            "tong",
+            "tong cong",
+            "thanh toan",
+            "khach dua",
+            "no lai",
+            "tien nuoc",
+            "thue",
+            "vat",
+            "gtgt",
+            "phi",
+            "phu phi",
+            "tieu thu"
+          ]
+        },
+        "footer": {
+          "description": "Cashier/staff, thanks text, print time, website, and hotline.",
+          "keywords": [
+            "cam on",
+            "nhan vien",
+            "dien thoai",
+            "ngay gui",
+            "in luc",
+            "hotline",
+            "www"
+          ]
+        }
+      },
+      "item_header_keywords": [
+        "description",
+        "dien giai",
+        "ten hang",
+        "mat hang",
+        "don gia",
+        "so luong",
+        "qty"
+      ]
+    },
+    "image": {
+      "width": 773,
+      "height": 785
+    },
+    "text": "CHY CTY CP BB HUE TÀI DA LAT\nPALLA\nQuang truong Lam Vien, P10, TP Dalat\nMa so thue: 3300854978\nSo ĐT: 0263 3545088\nHotline: 1900 1880\nPHIEU TINH TIEN\nDescriptions\nVAT\nFF XÃ LACH LO LO XAN\n1.000 BIC X\n10,000\n10,000\nDUI GA GOC TU NUONG\n5\n0.428 Kg\nX\n155,000\n66,340\nCOM CHIẾN DUONG\nSCHAU\n5\n0.244 Kg X\n75,000\n18,300\nMI S.YANG TRON\nTUONG\n5\n1\nHũ X\n27,600\n27,600\nMI TRON OMACHI\nTHIT\n5\n2\nGói x\n8,600\n17,200\nCHANH DAY\n1\n0.308\nKg\nx\n28,800\n8,870\nSC NUTI\nNHÀ DÂM 100G\n5\n1\nLốc\nX\n29,500\n29,500\nKIM CHI\nINS\nCAI T\nTHAO 100\n5\n1.000 BIC X\n14,000\n14,000\nMIT CAT MIENG\n1\n0.528 Kg X\n29,000\n15,312\nCUOC VANG KHONG\nTRAY\n5\nI\nCái x\n9,000\n9,000\n1\nTR. GA NĂM HAI VI\nh\n1\n1\n1\nVi X\n18,500\n18,500\nVND\n234,622\nTÔNG CỘNG",
+    "fields": {
+      "dates": [],
+      "phones": ["02633545088"],
+      "tax_code": "3300854978",
+      "total_amount": {
+        "value": 234622,
+        "raw": "234,622",
+        "line": "TÔNG CỘNG VND 234,622",
+        "bbox": [150, 704, 632, 762]
+      }
+    },
+    "sections": {
+      "header": {
+        "text": "CHY CTY CP BB HUE TÀI DA LAT PALLA\nQuang truong Lam Vien, P10, TP Dalat\nMa so thue: 3300854978\nSo ĐT: 0263 3545088\nHotline: 1900 1880\nPHIEU TINH TIEN\nDescriptions VAT\nFF XÃ LACH LO LO XAN",
+        "bbox": [158, 5, 633, 206],
+        "lines": [
+          {
+            "index": 0,
+            "text": "CHY CTY CP BB HUE TÀI DA LAT PALLA",
+            "bbox": [232, 5, 553, 36],
+            "boxes": [
+              {
+                "text": "CHY CTY CP BB HUE TÀI DA LAT",
+                "bbox": [232, 6, 553, 36],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "PALLA",
+                "bbox": [388, 5, 453, 16],
+                "type": "ocr",
+                "score": 1
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "text": "Quang truong Lam Vien, P10, TP Dalat",
+            "bbox": [189, 25, 610, 62],
+            "boxes": [
+              {
+                "text": "Quang truong Lam Vien, P10, TP Dalat",
+                "bbox": [189, 25, 610, 62],
+                "type": "ocr",
+                "score": 1
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "text": "Ma so thue: 3300854978",
+            "bbox": [216, 55, 575, 84],
+            "boxes": [
+              {
+                "text": "Ma so thue: 3300854978",
+                "bbox": [216, 55, 575, 84],
+                "type": "ocr",
+                "score": 1
+              }
+            ]
+          },
+          {
+            "index": 3,
+            "text": "So ĐT: 0263 3545088",
+            "bbox": [280, 82, 505, 106],
+            "boxes": [
+              {
+                "text": "So ĐT: 0263 3545088",
+                "bbox": [280, 82, 505, 106],
+                "type": "ocr",
+                "score": 1
+              }
+            ]
+          },
+          {
+            "index": 4,
+            "text": "Hotline: 1900 1880",
+            "bbox": [291, 106, 505, 129],
+            "boxes": [
+              {
+                "text": "Hotline: 1900 1880",
+                "bbox": [291, 106, 505, 129],
+                "type": "ocr",
+                "score": 1
+              }
+            ]
+          },
+          {
+            "index": 5,
+            "text": "PHIEU TINH TIEN",
+            "bbox": [304, 128, 483, 152],
+            "boxes": [
+              {
+                "text": "PHIEU TINH TIEN",
+                "bbox": [304, 128, 483, 152],
+                "type": "ocr",
+                "score": 1
+              }
+            ]
+          },
+          {
+            "index": 6,
+            "text": "Descriptions VAT",
+            "bbox": [158, 143, 633, 179],
+            "boxes": [
+              {
+                "text": "Descriptions",
+                "bbox": [158, 143, 295, 167],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "VAT",
+                "bbox": [594, 151, 633, 179],
+                "type": "ocr",
+                "score": 1
+              }
+            ]
+          },
+          {
+            "index": 7,
+            "text": "FF XÃ LACH LO LO XAN",
+            "bbox": [159, 182, 401, 206],
+            "boxes": [
+              {
+                "text": "FF XÃ LACH LO LO XAN",
+                "bbox": [159, 182, 401, 206],
+                "type": "ocr",
+                "score": 1
+              }
+            ]
+          }
+        ]
+      },
+      "items": {
+        "text": "1.000 BIC X 10,000 10,000\nDUI GA GOC TU NUONG 5\n0.428 Kg X 155,000 66,340\nCOM CHIẾN DUONG SCHAU 5\n0.244 Kg X 75,000 18,300\nMI S.YANG TRON TUONG 5\n1 Hũ X 27,600 27,600\nMI TRON OMACHI THIT 5\n2 Gói x 8,600 17,200\nCHANH DAY 1\n0.308 Kg x 28,800 8,870\nSC NUTI NHÀ DÂM 100G 5\n1 Lốc X 29,500 29,500\nKIM CHI INS CAI T THAO 100 5\n1.000 BIC X 14,000 14,000\nMIT CAT MIENG 1\n0.528 Kg X 29,000 15,312\nCUOC VANG KHONG I TRAY 5\n1 Cái x 9,000 9,000\nTR. GA NĂM HAI VI 1 h 1\n1 Vi X 18,500 18,500",
+        "bbox": [152, 208, 632, 700],
+        "lines": [
+          {
+            "index": 8,
+            "text": "1.000 BIC X 10,000 10,000",
+            "bbox": [184, 208, 632, 237],
+            "boxes": [
+              {
+                "text": "1.000 BIC X",
+                "bbox": [184, 208, 330, 228],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "10,000",
+                "bbox": [389, 214, 458, 236],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "10,000",
+                "bbox": [564, 213, 632, 237],
+                "type": "ocr",
+                "score": 1
+              }
+            ]
+          },
+          {
+            "index": 9,
+            "text": "DUI GA GOC TU NUONG 5",
+            "bbox": [157, 230, 624, 260],
+            "boxes": [
+              {
+                "text": "DUI GA GOC TU NUONG",
+                "bbox": [157, 230, 391, 254],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "5",
+                "bbox": [603, 236, 624, 260],
+                "type": "ocr",
+                "score": 1
+              }
+            ]
+          },
+          {
+            "index": 10,
+            "text": "0.428 Kg X 155,000 66,340",
+            "bbox": [183, 255, 631, 285],
+            "boxes": [
+              {
+                "text": "0.428 Kg",
+                "bbox": [183, 255, 298, 275],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "X",
+                "bbox": [293, 261, 331, 279],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "155,000",
+                "bbox": [376, 259, 458, 283],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "66,340",
+                "bbox": [561, 260, 631, 285],
+                "type": "ocr",
+                "score": 1
+              }
+            ]
+          },
+          {
+            "index": 11,
+            "text": "COM CHIẾN DUONG SCHAU 5",
+            "bbox": [158, 279, 623, 305],
+            "boxes": [
+              {
+                "text": "COM CHIẾN DUONG",
+                "bbox": [158, 279, 347, 301],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "SCHAU",
+                "bbox": [337, 286, 400, 303],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "5",
+                "bbox": [604, 285, 623, 305],
+                "type": "ocr",
+                "score": 1
+              }
+            ]
+          },
+          {
+            "index": 12,
+            "text": "0.244 Kg X 75,000 18,300",
+            "bbox": [182, 301, 631, 330],
+            "boxes": [
+              {
+                "text": "0.244 Kg X",
+                "bbox": [182, 301, 332, 324],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "75,000",
+                "bbox": [386, 304, 459, 329],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "18,300",
+                "bbox": [562, 305, 631, 330],
+                "type": "ocr",
+                "score": 1
+              }
+            ]
+          },
+          {
+            "index": 13,
+            "text": "MI S.YANG TRON TUONG 5",
+            "bbox": [158, 326, 622, 351],
+            "boxes": [
+              {
+                "text": "MI S.YANG TRON",
+                "bbox": [158, 326, 333, 349],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "TUONG",
+                "bbox": [339, 330, 402, 351],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "5",
+                "bbox": [605, 331, 622, 351],
+                "type": "ocr",
+                "score": 1
+              }
+            ]
+          },
+          {
+            "index": 14,
+            "text": "1 Hũ X 27,600 27,600",
+            "bbox": [198, 349, 632, 376],
+            "boxes": [
+              {
+                "text": "1",
+                "bbox": [198, 352, 212, 369],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "Hũ X",
+                "bbox": [268, 350, 332, 375],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "27,600",
+                "bbox": [385, 349, 459, 374],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "27,600",
+                "bbox": [561, 351, 632, 376],
+                "type": "ocr",
+                "score": 1
+              }
+            ]
+          },
+          {
+            "index": 15,
+            "text": "MI TRON OMACHI THIT 5",
+            "bbox": [157, 372, 621, 396],
+            "boxes": [
+              {
+                "text": "MI TRON OMACHI",
+                "bbox": [157, 372, 334, 395],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "THIT",
+                "bbox": [328, 376, 386, 396],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "5",
+                "bbox": [604, 376, 621, 396],
+                "type": "ocr",
+                "score": 1
+              }
+            ]
+          },
+          {
+            "index": 16,
+            "text": "2 Gói x 8,600 17,200",
+            "bbox": [194, 394, 631, 421],
+            "boxes": [
+              {
+                "text": "2",
+                "bbox": [194, 396, 217, 418],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "Gói x",
+                "bbox": [256, 394, 334, 419],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "8,600",
+                "bbox": [398, 396, 459, 421],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "17,200",
+                "bbox": [562, 396, 631, 421],
+                "type": "ocr",
+                "score": 1
+              }
+            ]
+          },
+          {
+            "index": 17,
+            "text": "CHANH DAY 1",
+            "bbox": [159, 418, 617, 441],
+            "boxes": [
+              {
+                "text": "CHANH DAY",
+                "bbox": [159, 418, 271, 441],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "1",
+                "bbox": [609, 427, 617, 437],
+                "type": "ocr",
+                "score": 1
+              }
+            ]
+          },
+          {
+            "index": 18,
+            "text": "0.308 Kg x 28,800 8,870",
+            "bbox": [183, 439, 631, 466],
+            "boxes": [
+              {
+                "text": "0.308",
+                "bbox": [183, 444, 250, 464],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "Kg",
+                "bbox": [240, 444, 298, 465],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "x",
+                "bbox": [293, 445, 330, 464],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "28,800",
+                "bbox": [386, 439, 458, 465],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "8,870",
+                "bbox": [571, 442, 631, 466],
+                "type": "ocr",
+                "score": 1
+              }
+            ]
+          },
+          {
+            "index": 19,
+            "text": "SC NUTI NHÀ DÂM 100G 5",
+            "bbox": [159, 466, 623, 488],
+            "boxes": [
+              {
+                "text": "SC NUTI",
+                "bbox": [159, 466, 249, 487],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "NHÀ DÂM 100G",
+                "bbox": [255, 467, 400, 488],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "5",
+                "bbox": [604, 467, 623, 487],
+                "type": "ocr",
+                "score": 1
+              }
+            ]
+          },
+          {
+            "index": 20,
+            "text": "1 Lốc X 29,500 29,500",
+            "bbox": [195, 487, 631, 511],
+            "boxes": [
+              {
+                "text": "1",
+                "bbox": [195, 491, 207, 505],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "Lốc",
+                "bbox": [255, 489, 298, 511],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "X",
+                "bbox": [297, 491, 330, 510],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "29,500",
+                "bbox": [386, 489, 456, 510],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "29,500",
+                "bbox": [561, 487, 631, 511],
+                "type": "ocr",
+                "score": 1
+              }
+            ]
+          },
+          {
+            "index": 21,
+            "text": "KIM CHI INS CAI T THAO 100 5",
+            "bbox": [157, 511, 623, 534],
+            "boxes": [
+              {
+                "text": "KIM CHI",
+                "bbox": [157, 513, 246, 534],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "INS",
+                "bbox": [244, 519, 255, 526],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "CAI T",
+                "bbox": [252, 511, 311, 533],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "THAO 100",
+                "bbox": [301, 513, 401, 534],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "5",
+                "bbox": [605, 511, 623, 532],
+                "type": "ocr",
+                "score": 1
+              }
+            ]
+          },
+          {
+            "index": 22,
+            "text": "1.000 BIC X 14,000 14,000",
+            "bbox": [181, 532, 631, 558],
+            "boxes": [
+              {
+                "text": "1.000 BIC X",
+                "bbox": [181, 532, 331, 556],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "14,000",
+                "bbox": [386, 533, 458, 558],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "14,000",
+                "bbox": [560, 533, 631, 558],
+                "type": "ocr",
+                "score": 1
+              }
+            ]
+          },
+          {
+            "index": 23,
+            "text": "MIT CAT MIENG 1",
+            "bbox": [155, 556, 620, 582],
+            "boxes": [
+              {
+                "text": "MIT CAT MIENG",
+                "bbox": [155, 558, 317, 582],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "1",
+                "bbox": [606, 556, 620, 572],
+                "type": "ocr",
+                "score": 1
+              }
+            ]
+          },
+          {
+            "index": 24,
+            "text": "0.528 Kg X 29,000 15,312",
+            "bbox": [178, 577, 631, 605],
+            "boxes": [
+              {
+                "text": "0.528 Kg X",
+                "bbox": [178, 582, 329, 605],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "29,000",
+                "bbox": [384, 579, 457, 604],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "15,312",
+                "bbox": [560, 577, 631, 602],
+                "type": "ocr",
+                "score": 1
+              }
+            ]
+          },
+          {
+            "index": 25,
+            "text": "CUOC VANG KHONG I TRAY 5",
+            "bbox": [152, 601, 623, 631],
+            "boxes": [
+              {
+                "text": "CUOC VANG KHONG",
+                "bbox": [152, 608, 341, 631],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "I",
+                "bbox": [342, 611, 351, 620],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "TRAY",
+                "bbox": [345, 606, 398, 627],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "5",
+                "bbox": [604, 601, 623, 621],
+                "type": "ocr",
+                "score": 1
+              }
+            ]
+          },
+          {
+            "index": 26,
+            "text": "1 Cái x 9,000 9,000",
+            "bbox": [191, 623, 631, 652],
+            "boxes": [
+              {
+                "text": "1",
+                "bbox": [191, 635, 203, 649],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "Cái x",
+                "bbox": [253, 630, 328, 652],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "9,000",
+                "bbox": [392, 626, 457, 652],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "9,000",
+                "bbox": [569, 623, 631, 648],
+                "type": "ocr",
+                "score": 1
+              }
+            ]
+          },
+          {
+            "index": 27,
+            "text": "TR. GA NĂM HAI VI 1 h 1",
+            "bbox": [152, 648, 618, 678],
+            "boxes": [
+              {
+                "text": "TR. GA NĂM HAI VI",
+                "bbox": [152, 655, 353, 678],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "1",
+                "bbox": [353, 659, 358, 666],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "h",
+                "bbox": [360, 657, 369, 669],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "1",
+                "bbox": [606, 648, 618, 662],
+                "type": "ocr",
+                "score": 1
+              }
+            ]
+          },
+          {
+            "index": 28,
+            "text": "1 Vi X 18,500 18,500",
+            "bbox": [188, 669, 630, 700],
+            "boxes": [
+              {
+                "text": "1",
+                "bbox": [188, 678, 205, 699],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "Vi X",
+                "bbox": [262, 673, 328, 698],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "18,500",
+                "bbox": [382, 672, 455, 700],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "18,500",
+                "bbox": [558, 669, 630, 694],
+                "type": "ocr",
+                "score": 1
+              }
+            ]
+          }
+        ]
+      },
+      "totals": {
+        "text": "TÔNG CỘNG VND 234,622",
+        "bbox": [150, 704, 632, 762],
+        "lines": [
+          {
+            "index": 29,
+            "text": "TÔNG CỘNG VND 234,622",
+            "bbox": [150, 704, 632, 762],
+            "boxes": [
+              {
+                "text": "TÔNG CỘNG",
+                "bbox": [150, 714, 264, 762],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "VND",
+                "bbox": [405, 710, 443, 755],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "234,622",
+                "bbox": [540, 704, 632, 757],
+                "type": "ocr",
+                "score": 1
+              }
+            ]
+          }
+        ]
+      },
+      "footer": {
+        "text": "",
+        "bbox": null,
+        "lines": []
+      }
+    },
+    "items": [
+      {
+        "name": "000 BIC X 10,000",
+        "quantity": "1.000",
+        "unit_price": 10000,
+        "line_total": 10000,
+        "raw_text": "1.000 BIC X 10,000 10,000",
+        "bbox": [184, 208, 632, 237]
+      },
+      {
+        "name": "DUI GA GOC TU NUONG 5 0.428 Kg X 155,000",
+        "quantity": "0.428",
+        "unit_price": 155000,
+        "line_total": 66340,
+        "raw_text": "0.428 Kg X 155,000 66,340",
+        "bbox": [183, 255, 631, 285]
+      },
+      {
+        "name": "COM CHIẾN DUONG SCHAU 5 0.244 Kg X 75,000",
+        "quantity": "0.244",
+        "unit_price": 75000,
+        "line_total": 18300,
+        "raw_text": "0.244 Kg X 75,000 18,300",
+        "bbox": [182, 301, 631, 330]
+      },
+      {
+        "name": "MI S.YANG TRON TUONG 5 1 Hũ X 27,600",
+        "quantity": "1",
+        "unit_price": 27600,
+        "line_total": 27600,
+        "raw_text": "1 Hũ X 27,600 27,600",
+        "bbox": [198, 349, 632, 376]
+      },
+      {
+        "name": "MI TRON OMACHI THIT 5 2 Gói x 8,600",
+        "quantity": "2",
+        "unit_price": 8600,
+        "line_total": 17200,
+        "raw_text": "2 Gói x 8,600 17,200",
+        "bbox": [194, 394, 631, 421]
+      },
+      {
+        "name": "CHANH DAY 1 0.308 Kg x 28,800",
+        "quantity": "0.308",
+        "unit_price": 28800,
+        "line_total": 8870,
+        "raw_text": "0.308 Kg x 28,800 8,870",
+        "bbox": [183, 439, 631, 466]
+      },
+      {
+        "name": "SC NUTI NHÀ DÂM 100G 5 1 Lốc X 29,500",
+        "quantity": null,
+        "unit_price": 29500,
+        "line_total": 29500,
+        "raw_text": "1 Lốc X 29,500 29,500",
+        "bbox": [195, 487, 631, 511]
+      },
+      {
+        "name": "KIM CHI INS CAI T THAO 100 5 1.000 BIC X 14,000",
+        "quantity": "1.000",
+        "unit_price": 14000,
+        "line_total": 14000,
+        "raw_text": "1.000 BIC X 14,000 14,000",
+        "bbox": [181, 532, 631, 558]
+      },
+      {
+        "name": "MIT CAT MIENG 1 0.528 Kg X 29,000",
+        "quantity": "0.528",
+        "unit_price": 29000,
+        "line_total": 15312,
+        "raw_text": "0.528 Kg X 29,000 15,312",
+        "bbox": [178, 577, 631, 605]
+      },
+      {
+        "name": "CUOC VANG KHONG I TRAY 5 1 Cái x 9,000",
+        "quantity": "1",
+        "unit_price": 9000,
+        "line_total": 9000,
+        "raw_text": "1 Cái x 9,000 9,000",
+        "bbox": [191, 623, 631, 652]
+      },
+      {
+        "name": "TR. GA NĂM HAI VI 1 h 1 1 Vi X 18,500",
+        "quantity": "1",
+        "unit_price": 18500,
+        "line_total": 18500,
+        "raw_text": "1 Vi X 18,500 18,500",
+        "bbox": [188, 669, 630, 700]
+      }
+    ],
+    "boxes": [
+      {
+        "text": "CHY CTY CP BB HUE TÀI DA LAT",
+        "bbox": [232, 6, 553, 36],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "PALLA",
+        "bbox": [388, 5, 453, 16],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "Quang truong Lam Vien, P10, TP Dalat",
+        "bbox": [189, 25, 610, 62],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "Ma so thue: 3300854978",
+        "bbox": [216, 55, 575, 84],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "So ĐT: 0263 3545088",
+        "bbox": [280, 82, 505, 106],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "Hotline: 1900 1880",
+        "bbox": [291, 106, 505, 129],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "PHIEU TINH TIEN",
+        "bbox": [304, 128, 483, 152],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "Descriptions",
+        "bbox": [158, 143, 295, 167],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "VAT",
+        "bbox": [594, 151, 633, 179],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "FF XÃ LACH LO LO XAN",
+        "bbox": [159, 182, 401, 206],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "1.000 BIC X",
+        "bbox": [184, 208, 330, 228],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "10,000",
+        "bbox": [389, 214, 458, 236],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "10,000",
+        "bbox": [564, 213, 632, 237],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "DUI GA GOC TU NUONG",
+        "bbox": [157, 230, 391, 254],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "5",
+        "bbox": [603, 236, 624, 260],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "0.428 Kg",
+        "bbox": [183, 255, 298, 275],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "X",
+        "bbox": [293, 261, 331, 279],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "155,000",
+        "bbox": [376, 259, 458, 283],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "66,340",
+        "bbox": [561, 260, 631, 285],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "COM CHIẾN DUONG",
+        "bbox": [158, 279, 347, 301],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "SCHAU",
+        "bbox": [337, 286, 400, 303],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "5",
+        "bbox": [604, 285, 623, 305],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "0.244 Kg X",
+        "bbox": [182, 301, 332, 324],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "75,000",
+        "bbox": [386, 304, 459, 329],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "18,300",
+        "bbox": [562, 305, 631, 330],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "MI S.YANG TRON",
+        "bbox": [158, 326, 333, 349],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "TUONG",
+        "bbox": [339, 330, 402, 351],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "5",
+        "bbox": [605, 331, 622, 351],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "1",
+        "bbox": [198, 352, 212, 369],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "Hũ X",
+        "bbox": [268, 350, 332, 375],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "27,600",
+        "bbox": [385, 349, 459, 374],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "27,600",
+        "bbox": [561, 351, 632, 376],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "MI TRON OMACHI",
+        "bbox": [157, 372, 334, 395],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "THIT",
+        "bbox": [328, 376, 386, 396],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "5",
+        "bbox": [604, 376, 621, 396],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "2",
+        "bbox": [194, 396, 217, 418],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "Gói x",
+        "bbox": [256, 394, 334, 419],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "8,600",
+        "bbox": [398, 396, 459, 421],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "17,200",
+        "bbox": [562, 396, 631, 421],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "CHANH DAY",
+        "bbox": [159, 418, 271, 441],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "1",
+        "bbox": [609, 427, 617, 437],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "0.308",
+        "bbox": [183, 444, 250, 464],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "Kg",
+        "bbox": [240, 444, 298, 465],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "x",
+        "bbox": [293, 445, 330, 464],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "28,800",
+        "bbox": [386, 439, 458, 465],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "8,870",
+        "bbox": [571, 442, 631, 466],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "SC NUTI",
+        "bbox": [159, 466, 249, 487],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "NHÀ DÂM 100G",
+        "bbox": [255, 467, 400, 488],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "5",
+        "bbox": [604, 467, 623, 487],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "1",
+        "bbox": [195, 491, 207, 505],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "Lốc",
+        "bbox": [255, 489, 298, 511],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "X",
+        "bbox": [297, 491, 330, 510],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "29,500",
+        "bbox": [386, 489, 456, 510],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "29,500",
+        "bbox": [561, 487, 631, 511],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "KIM CHI",
+        "bbox": [157, 513, 246, 534],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "INS",
+        "bbox": [244, 519, 255, 526],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "CAI T",
+        "bbox": [252, 511, 311, 533],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "THAO 100",
+        "bbox": [301, 513, 401, 534],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "5",
+        "bbox": [605, 511, 623, 532],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "1.000 BIC X",
+        "bbox": [181, 532, 331, 556],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "14,000",
+        "bbox": [386, 533, 458, 558],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "14,000",
+        "bbox": [560, 533, 631, 558],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "MIT CAT MIENG",
+        "bbox": [155, 558, 317, 582],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "1",
+        "bbox": [606, 556, 620, 572],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "0.528 Kg X",
+        "bbox": [178, 582, 329, 605],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "29,000",
+        "bbox": [384, 579, 457, 604],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "15,312",
+        "bbox": [560, 577, 631, 602],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "CUOC VANG KHONG",
+        "bbox": [152, 608, 341, 631],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "TRAY",
+        "bbox": [345, 606, 398, 627],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "5",
+        "bbox": [604, 601, 623, 621],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "I",
+        "bbox": [342, 611, 351, 620],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "Cái x",
+        "bbox": [253, 630, 328, 652],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "9,000",
+        "bbox": [392, 626, 457, 652],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "9,000",
+        "bbox": [569, 623, 631, 648],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "1",
+        "bbox": [191, 635, 203, 649],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "TR. GA NĂM HAI VI",
+        "bbox": [152, 655, 353, 678],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "h",
+        "bbox": [360, 657, 369, 669],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "1",
+        "bbox": [606, 648, 618, 662],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "1",
+        "bbox": [353, 659, 358, 666],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "1",
+        "bbox": [188, 678, 205, 699],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "Vi X",
+        "bbox": [262, 673, 328, 698],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "18,500",
+        "bbox": [382, 672, 455, 700],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "18,500",
+        "bbox": [558, 669, 630, 694],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "VND",
+        "bbox": [405, 710, 443, 755],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "234,622",
+        "bbox": [540, 704, 632, 757],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "TÔNG CỘNG",
+        "bbox": [150, 714, 264, 762],
+        "type": "ocr",
+        "score": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,1480 @@
+{
+  "text": "CAL\nTừ ngày: 22/09/2021\nđến ngày: 21/10/2021\nDanh bộ:\nTINTING\nKH: NGUTH THI\nĐo: KB 6.1111 DUONG 10 KP2\nSố điện thoại:\nTHONG NHI TỌNN DY TH THÀNH ĐƯỜNG THỊ NHINH ĐINH\nGB:\n11\nDM:\n0\nMTT:\n40\nCS Mới:\n496\nCS cũ:\n17\nTiêu thụ:\n479 m3\nTiền nước:\n6.514.400 đ\nTHUẾ GTGT 5%:\n325.720 đ\nPHÍ BVMT 10%:\n651.440 đ\nTổng:\n7.491.560 đ\nNhân viên:\nTrần Anh Dũng\nĐiện thoại:\nPHA\n0989 756-11\nNgày gửi giấy báo: 21/10/2021 11:53:26\nQuý khách vui lòng kiểm tra lại số điện thoại t- nha\nhiêu\nbáo này và cập nhật chính xác số điện thoạn tri\nwaww capnuocthuduc.vn hoặc giện",
+  "layout": "invoice",
+  "pages": [
+    {
+      "page": 1,
+      "text": "CAL\nTừ ngày: 22/09/2021\nđến ngày: 21/10/2021\nDanh bộ:\nTINTING\nKH: NGUTH THI\nĐo: KB 6.1111 DUONG 10 KP2\nSố điện thoại:\nTHONG NHI TỌNN DY TH THÀNH ĐƯỜNG THỊ NHINH ĐINH\nGB:\n11\nDM:\n0\nMTT:\n40\nCS Mới:\n496\nCS cũ:\n17\nTiêu thụ:\n479 m3\nTiền nước:\n6.514.400 đ\nTHUẾ GTGT 5%:\n325.720 đ\nPHÍ BVMT 10%:\n651.440 đ\nTổng:\n7.491.560 đ\nNhân viên:\nTrần Anh Dũng\nĐiện thoại:\nPHA\n0989 756-11\nNgày gửi giấy báo: 21/10/2021 11:53:26\nQuý khách vui lòng kiểm tra lại số điện thoại t- nha\nhiêu\nbáo này và cập nhật chính xác số điện thoạn tri\nwaww capnuocthuduc.vn hoặc giện",
+      "invoice": {
+        "layout_config": {
+          "type": "invoice",
+          "sections": {
+            "header": {
+              "description": "Store/vendor, title, address, contact, invoice metadata."
+            },
+            "items": {
+              "description": "Purchased goods/services, quantities, unit prices, and line totals."
+            },
+            "totals": {
+              "description": "Subtotal, tax, fees, total, payment, and remaining amount.",
+              "keywords": [
+                "tong",
+                "tong cong",
+                "thanh toan",
+                "khach dua",
+                "no lai",
+                "tien nuoc",
+                "thue",
+                "vat",
+                "gtgt",
+                "phi",
+                "phu phi",
+                "tieu thu"
+              ]
+            },
+            "footer": {
+              "description": "Cashier/staff, thanks text, print time, website, and hotline.",
+              "keywords": [
+                "cam on",
+                "nhan vien",
+                "dien thoai",
+                "ngay gui",
+                "in luc",
+                "hotline",
+                "www"
+              ]
+            }
+          },
+          "item_header_keywords": [
+            "description",
+            "dien giai",
+            "ten hang",
+            "mat hang",
+            "don gia",
+            "so luong",
+            "qty"
+          ]
+        },
+        "image": {
+          "width": 1024,
+          "height": 1003
+        },
+        "text": "CAL\nTừ ngày: 22/09/2021\nđến ngày: 21/10/2021\nDanh bộ:\nTINTING\nKH: NGUTH THI\nĐo: KB 6.1111 DUONG 10 KP2\nSố điện thoại:\nTHONG NHI TỌNN DY TH THÀNH ĐƯỜNG THỊ NHINH ĐINH\nGB:\n11\nDM:\n0\nMTT:\n40\nCS Mới:\n496\nCS cũ:\n17\nTiêu thụ:\n479 m3\nTiền nước:\n6.514.400 đ\nTHUẾ GTGT 5%:\n325.720 đ\nPHÍ BVMT 10%:\n651.440 đ\nTổng:\n7.491.560 đ\nNhân viên:\nTrần Anh Dũng\nĐiện thoại:\nPHA\n0989 756-11\nNgày gửi giấy báo: 21/10/2021 11:53:26\nQuý khách vui lòng kiểm tra lại số điện thoại t- nha\nhiêu\nbáo này và cập nhật chính xác số điện thoạn tri\nwaww capnuocthuduc.vn hoặc giện",
+        "fields": {
+          "dates": ["22/09/2021", "21/10/2021", "21/10/2021"],
+          "phones": [],
+          "total_amount": {
+            "value": 7491560,
+            "raw": "7.491.560",
+            "line": "7.491.560 đ",
+            "bbox": [604, 678, 762, 709]
+          },
+          "tax": [
+            {
+              "value": 6514400,
+              "raw": "6.514.400",
+              "line": "THUẾ GTGT 5%: 6.514.400 đ",
+              "bbox": [77, 557, 773, 605]
+            }
+          ],
+          "fee": [
+            {
+              "value": 325720,
+              "raw": "325.720",
+              "line": "PHÍ BVMT 10%: 325.720 đ",
+              "bbox": [76, 597, 767, 648]
+            }
+          ]
+        },
+        "sections": {
+          "header": {
+            "text": "CAL\nTừ ngày: 22/09/2021 đến ngày: 21/10/2021\nDanh bộ:\nTINTING\nKH: NGUTH THI",
+            "bbox": [81, 0, 721, 311],
+            "lines": [
+              {
+                "index": 0,
+                "text": "CAL",
+                "bbox": [484, 0, 547, 21],
+                "boxes": [
+                  {
+                    "text": "CAL",
+                    "bbox": [484, 0, 547, 21],
+                    "type": "ocr",
+                    "score": 1
+                  }
+                ]
+              },
+              {
+                "index": 1,
+                "text": "Từ ngày: 22/09/2021 đến ngày: 21/10/2021",
+                "bbox": [135, 158, 721, 208],
+                "boxes": [
+                  {
+                    "text": "Từ ngày: 22/09/2021",
+                    "bbox": [135, 158, 403, 192],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "đến ngày: 21/10/2021",
+                    "bbox": [452, 174, 721, 208],
+                    "type": "ocr",
+                    "score": 1
+                  }
+                ]
+              },
+              {
+                "index": 2,
+                "text": "Danh bộ:",
+                "bbox": [84, 196, 210, 231],
+                "boxes": [
+                  {
+                    "text": "Danh bộ:",
+                    "bbox": [84, 196, 210, 231],
+                    "type": "ocr",
+                    "score": 1
+                  }
+                ]
+              },
+              {
+                "index": 3,
+                "text": "TINTING",
+                "bbox": [373, 223, 547, 269],
+                "boxes": [
+                  {
+                    "text": "TINTING",
+                    "bbox": [373, 223, 547, 269],
+                    "type": "ocr",
+                    "score": 1
+                  }
+                ]
+              },
+              {
+                "index": 4,
+                "text": "KH: NGUTH THI",
+                "bbox": [81, 277, 491, 311],
+                "boxes": [
+                  {
+                    "text": "KH: NGUTH THI",
+                    "bbox": [81, 277, 491, 311],
+                    "type": "ocr",
+                    "score": 1
+                  }
+                ]
+              }
+            ]
+          },
+          "items": {
+            "text": "Đo: KB 6.1111 DUONG 10 KP2\nSố điện thoại:\nGB: 11 DM: 0 MTT: 40\nCS Mới: 496 CS cũ: 17",
+            "bbox": [77, 324, 704, 506],
+            "lines": [
+              {
+                "index": 5,
+                "text": "Đo: KB 6.1111 DUONG 10 KP2",
+                "bbox": [81, 324, 527, 353],
+                "boxes": [
+                  {
+                    "text": "Đo: KB 6.1111 DUONG 10 KP2",
+                    "bbox": [81, 324, 527, 353],
+                    "type": "ocr",
+                    "score": 1
+                  }
+                ]
+              },
+              {
+                "index": 6,
+                "text": "Số điện thoại:",
+                "bbox": [81, 360, 264, 394],
+                "boxes": [
+                  {
+                    "text": "Số điện thoại:",
+                    "bbox": [81, 360, 264, 394],
+                    "type": "ocr",
+                    "score": 1
+                  }
+                ]
+              },
+              {
+                "index": 7,
+                "text": "GB: 11 DM: 0 MTT: 40",
+                "bbox": [78, 407, 704, 467],
+                "boxes": [
+                  {
+                    "text": "GB:",
+                    "bbox": [78, 407, 137, 441],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "11",
+                    "bbox": [209, 413, 245, 446],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "DM:",
+                    "bbox": [309, 417, 374, 449],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "0",
+                    "bbox": [445, 426, 467, 455],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "MTT:",
+                    "bbox": [536, 429, 613, 460],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "40",
+                    "bbox": [666, 434, 704, 467],
+                    "type": "ocr",
+                    "score": 1
+                  }
+                ]
+              },
+              {
+                "index": 8,
+                "text": "CS Mới: 496 CS cũ: 17",
+                "bbox": [77, 448, 615, 506],
+                "boxes": [
+                  {
+                    "text": "CS Mới:",
+                    "bbox": [77, 448, 192, 482],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "496",
+                    "bbox": [281, 457, 332, 491],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "CS cũ:",
+                    "bbox": [411, 462, 500, 498],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "17",
+                    "bbox": [576, 472, 615, 506],
+                    "type": "ocr",
+                    "score": 1
+                  }
+                ]
+              }
+            ]
+          },
+          "totals": {
+            "text": "Tiêu thụ:\nTiền nước: 479 m3\nTHUẾ GTGT 5%: 6.514.400 đ\nPHÍ BVMT 10%: 325.720 đ\nTổng: 651.440 đ THONG NHI TỌNN DY TH THÀNH ĐƯỜNG THỊ NHINH ĐINH\n7.491.560 đ",
+            "bbox": [71, 357, 837, 940],
+            "lines": [
+              {
+                "index": 9,
+                "text": "Tiêu thụ:",
+                "bbox": [77, 490, 209, 525],
+                "boxes": [
+                  {
+                    "text": "Tiêu thụ:",
+                    "bbox": [77, 490, 209, 525],
+                    "type": "ocr",
+                    "score": 1
+                  }
+                ]
+              },
+              {
+                "index": 10,
+                "text": "Tiền nước: 479 m3",
+                "bbox": [77, 513, 713, 565],
+                "boxes": [
+                  {
+                    "text": "Tiền nước:",
+                    "bbox": [77, 530, 220, 565],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "479 m3",
+                    "bbox": [591, 513, 713, 548],
+                    "type": "ocr",
+                    "score": 1
+                  }
+                ]
+              },
+              {
+                "index": 11,
+                "text": "THUẾ GTGT 5%: 6.514.400 đ",
+                "bbox": [77, 557, 773, 605],
+                "boxes": [
+                  {
+                    "text": "THUẾ GTGT 5%:",
+                    "bbox": [77, 571, 296, 605],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "6.514.400 đ",
+                    "bbox": [611, 557, 773, 587],
+                    "type": "ocr",
+                    "score": 1
+                  }
+                ]
+              },
+              {
+                "index": 12,
+                "text": "PHÍ BVMT 10%: 325.720 đ",
+                "bbox": [76, 597, 767, 648],
+                "boxes": [
+                  {
+                    "text": "PHÍ BVMT 10%:",
+                    "bbox": [76, 618, 293, 648],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "325.720 đ",
+                    "bbox": [632, 597, 767, 627],
+                    "type": "ocr",
+                    "score": 1
+                  }
+                ]
+              },
+              {
+                "index": 13,
+                "text": "Tổng: 651.440 đ THONG NHI TỌNN DY TH THÀNH ĐƯỜNG THỊ NHINH ĐINH",
+                "bbox": [71, 357, 837, 940],
+                "boxes": [
+                  {
+                    "text": "Tổng:",
+                    "bbox": [71, 650, 162, 693],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "651.440 đ",
+                    "bbox": [628, 639, 764, 670],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "THONG NHI TỌNN DY TH THÀNH ĐƯỜNG THỊ NHINH ĐINH",
+                    "bbox": [807, 357, 837, 940],
+                    "type": "ocr",
+                    "score": 1
+                  }
+                ]
+              },
+              {
+                "index": 14,
+                "text": "7.491.560 đ",
+                "bbox": [604, 678, 762, 709],
+                "boxes": [
+                  {
+                    "text": "7.491.560 đ",
+                    "bbox": [604, 678, 762, 709],
+                    "type": "ocr",
+                    "score": 1
+                  }
+                ]
+              }
+            ]
+          },
+          "footer": {
+            "text": "Nhân viên: Trần Anh Dũng\nĐiện thoại: PHA 0989 756-11\nNgày gửi giấy báo: 21/10/2021 11:53:26\nQuý khách vui lòng kiểm tra lại số điện thoại t- nha hiêu\nbáo này và cập nhật chính xác số điện thoạn tri\nwaww capnuocthuduc.vn hoặc giện",
+            "bbox": [69, 741, 770, 984],
+            "lines": [
+              {
+                "index": 15,
+                "text": "Nhân viên: Trần Anh Dũng",
+                "bbox": [71, 741, 706, 788],
+                "boxes": [
+                  {
+                    "text": "Nhân viên:",
+                    "bbox": [71, 741, 217, 775],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "Trần Anh Dũng",
+                    "bbox": [503, 752, 706, 788],
+                    "type": "ocr",
+                    "score": 1
+                  }
+                ]
+              },
+              {
+                "index": 16,
+                "text": "Điện thoại: PHA 0989 756-11",
+                "bbox": [70, 785, 679, 829],
+                "boxes": [
+                  {
+                    "text": "Điện thoại:",
+                    "bbox": [70, 785, 214, 816],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "PHA",
+                    "bbox": [406, 801, 477, 824],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "0989 756-11",
+                    "bbox": [510, 795, 679, 829],
+                    "type": "ocr",
+                    "score": 1
+                  }
+                ]
+              },
+              {
+                "index": 17,
+                "text": "Ngày gửi giấy báo: 21/10/2021 11:53:26",
+                "bbox": [70, 828, 576, 860],
+                "boxes": [
+                  {
+                    "text": "Ngày gửi giấy báo: 21/10/2021 11:53:26",
+                    "bbox": [70, 828, 576, 860],
+                    "type": "ocr",
+                    "score": 1
+                  }
+                ]
+              },
+              {
+                "index": 18,
+                "text": "Quý khách vui lòng kiểm tra lại số điện thoại t- nha hiêu",
+                "bbox": [71, 869, 770, 905],
+                "boxes": [
+                  {
+                    "text": "Quý khách vui lòng kiểm tra lại số điện thoại t- nha",
+                    "bbox": [71, 869, 674, 901],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "hiêu",
+                    "bbox": [720, 885, 770, 905],
+                    "type": "ocr",
+                    "score": 1
+                  }
+                ]
+              },
+              {
+                "index": 19,
+                "text": "báo này và cập nhật chính xác số điện thoạn tri",
+                "bbox": [69, 910, 617, 942],
+                "boxes": [
+                  {
+                    "text": "báo này và cập nhật chính xác số điện thoạn tri",
+                    "bbox": [69, 910, 617, 942],
+                    "type": "ocr",
+                    "score": 1
+                  }
+                ]
+              },
+              {
+                "index": 20,
+                "text": "waww capnuocthuduc.vn hoặc giện",
+                "bbox": [106, 954, 617, 984],
+                "boxes": [
+                  {
+                    "text": "waww capnuocthuduc.vn hoặc giện",
+                    "bbox": [106, 954, 617, 984],
+                    "type": "ocr",
+                    "score": 1
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "items": [
+          {
+            "name": "Đo: KB 6.",
+            "quantity": null,
+            "unit_price": null,
+            "line_total": 1111,
+            "raw_text": "Đo: KB 6.1111 DUONG 10 KP2",
+            "bbox": [81, 324, 527, 353]
+          }
+        ],
+        "boxes": [
+          {
+            "text": "CAL",
+            "bbox": [484, 0, 547, 21],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "Từ ngày: 22/09/2021",
+            "bbox": [135, 158, 403, 192],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "đến ngày: 21/10/2021",
+            "bbox": [452, 174, 721, 208],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "Danh bộ:",
+            "bbox": [84, 196, 210, 231],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "TINTING",
+            "bbox": [373, 223, 547, 269],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "KH: NGUTH THI",
+            "bbox": [81, 277, 491, 311],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "Đo: KB 6.1111 DUONG 10 KP2",
+            "bbox": [81, 324, 527, 353],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "Số điện thoại:",
+            "bbox": [81, 360, 264, 394],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "THONG NHI TỌNN DY TH THÀNH ĐƯỜNG THỊ NHINH ĐINH",
+            "bbox": [807, 357, 837, 940],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "GB:",
+            "bbox": [78, 407, 137, 441],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "11",
+            "bbox": [209, 413, 245, 446],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "DM:",
+            "bbox": [309, 417, 374, 449],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "0",
+            "bbox": [445, 426, 467, 455],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "MTT:",
+            "bbox": [536, 429, 613, 460],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "40",
+            "bbox": [666, 434, 704, 467],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "CS Mới:",
+            "bbox": [77, 448, 192, 482],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "496",
+            "bbox": [281, 457, 332, 491],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "CS cũ:",
+            "bbox": [411, 462, 500, 498],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "17",
+            "bbox": [576, 472, 615, 506],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "Tiêu thụ:",
+            "bbox": [77, 490, 209, 525],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "479 m3",
+            "bbox": [591, 513, 713, 548],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "Tiền nước:",
+            "bbox": [77, 530, 220, 565],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "6.514.400 đ",
+            "bbox": [611, 557, 773, 587],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "THUẾ GTGT 5%:",
+            "bbox": [77, 571, 296, 605],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "325.720 đ",
+            "bbox": [632, 597, 767, 627],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "PHÍ BVMT 10%:",
+            "bbox": [76, 618, 293, 648],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "651.440 đ",
+            "bbox": [628, 639, 764, 670],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "Tổng:",
+            "bbox": [71, 650, 162, 693],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "7.491.560 đ",
+            "bbox": [604, 678, 762, 709],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "Nhân viên:",
+            "bbox": [71, 741, 217, 775],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "Trần Anh Dũng",
+            "bbox": [503, 752, 706, 788],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "Điện thoại:",
+            "bbox": [70, 785, 214, 816],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "PHA",
+            "bbox": [406, 801, 477, 824],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "0989 756-11",
+            "bbox": [510, 795, 679, 829],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "Ngày gửi giấy báo: 21/10/2021 11:53:26",
+            "bbox": [70, 828, 576, 860],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "Quý khách vui lòng kiểm tra lại số điện thoại t- nha",
+            "bbox": [71, 869, 674, 901],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "hiêu",
+            "bbox": [720, 885, 770, 905],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "báo này và cập nhật chính xác số điện thoạn tri",
+            "bbox": [69, 910, 617, 942],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "waww capnuocthuduc.vn hoặc giện",
+            "bbox": [106, 954, 617, 984],
+            "type": "ocr",
+            "score": 1
+          }
+        ]
+      }
+    }
+  ],
+  "invoice": {
+    "layout_config": {
+      "type": "invoice",
+      "sections": {
+        "header": {
+          "description": "Store/vendor, title, address, contact, invoice metadata."
+        },
+        "items": {
+          "description": "Purchased goods/services, quantities, unit prices, and line totals."
+        },
+        "totals": {
+          "description": "Subtotal, tax, fees, total, payment, and remaining amount.",
+          "keywords": [
+            "tong",
+            "tong cong",
+            "thanh toan",
+            "khach dua",
+            "no lai",
+            "tien nuoc",
+            "thue",
+            "vat",
+            "gtgt",
+            "phi",
+            "phu phi",
+            "tieu thu"
+          ]
+        },
+        "footer": {
+          "description": "Cashier/staff, thanks text, print time, website, and hotline.",
+          "keywords": [
+            "cam on",
+            "nhan vien",
+            "dien thoai",
+            "ngay gui",
+            "in luc",
+            "hotline",
+            "www"
+          ]
+        }
+      },
+      "item_header_keywords": [
+        "description",
+        "dien giai",
+        "ten hang",
+        "mat hang",
+        "don gia",
+        "so luong",
+        "qty"
+      ]
+    },
+    "image": {
+      "width": 1024,
+      "height": 1003
+    },
+    "text": "CAL\nTừ ngày: 22/09/2021\nđến ngày: 21/10/2021\nDanh bộ:\nTINTING\nKH: NGUTH THI\nĐo: KB 6.1111 DUONG 10 KP2\nSố điện thoại:\nTHONG NHI TỌNN DY TH THÀNH ĐƯỜNG THỊ NHINH ĐINH\nGB:\n11\nDM:\n0\nMTT:\n40\nCS Mới:\n496\nCS cũ:\n17\nTiêu thụ:\n479 m3\nTiền nước:\n6.514.400 đ\nTHUẾ GTGT 5%:\n325.720 đ\nPHÍ BVMT 10%:\n651.440 đ\nTổng:\n7.491.560 đ\nNhân viên:\nTrần Anh Dũng\nĐiện thoại:\nPHA\n0989 756-11\nNgày gửi giấy báo: 21/10/2021 11:53:26\nQuý khách vui lòng kiểm tra lại số điện thoại t- nha\nhiêu\nbáo này và cập nhật chính xác số điện thoạn tri\nwaww capnuocthuduc.vn hoặc giện",
+    "fields": {
+      "dates": ["22/09/2021", "21/10/2021", "21/10/2021"],
+      "phones": [],
+      "total_amount": {
+        "value": 7491560,
+        "raw": "7.491.560",
+        "line": "7.491.560 đ",
+        "bbox": [604, 678, 762, 709]
+      },
+      "tax": [
+        {
+          "value": 6514400,
+          "raw": "6.514.400",
+          "line": "THUẾ GTGT 5%: 6.514.400 đ",
+          "bbox": [77, 557, 773, 605]
+        }
+      ],
+      "fee": [
+        {
+          "value": 325720,
+          "raw": "325.720",
+          "line": "PHÍ BVMT 10%: 325.720 đ",
+          "bbox": [76, 597, 767, 648]
+        }
+      ]
+    },
+    "sections": {
+      "header": {
+        "text": "CAL\nTừ ngày: 22/09/2021 đến ngày: 21/10/2021\nDanh bộ:\nTINTING\nKH: NGUTH THI",
+        "bbox": [81, 0, 721, 311],
+        "lines": [
+          {
+            "index": 0,
+            "text": "CAL",
+            "bbox": [484, 0, 547, 21],
+            "boxes": [
+              {
+                "text": "CAL",
+                "bbox": [484, 0, 547, 21],
+                "type": "ocr",
+                "score": 1
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "text": "Từ ngày: 22/09/2021 đến ngày: 21/10/2021",
+            "bbox": [135, 158, 721, 208],
+            "boxes": [
+              {
+                "text": "Từ ngày: 22/09/2021",
+                "bbox": [135, 158, 403, 192],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "đến ngày: 21/10/2021",
+                "bbox": [452, 174, 721, 208],
+                "type": "ocr",
+                "score": 1
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "text": "Danh bộ:",
+            "bbox": [84, 196, 210, 231],
+            "boxes": [
+              {
+                "text": "Danh bộ:",
+                "bbox": [84, 196, 210, 231],
+                "type": "ocr",
+                "score": 1
+              }
+            ]
+          },
+          {
+            "index": 3,
+            "text": "TINTING",
+            "bbox": [373, 223, 547, 269],
+            "boxes": [
+              {
+                "text": "TINTING",
+                "bbox": [373, 223, 547, 269],
+                "type": "ocr",
+                "score": 1
+              }
+            ]
+          },
+          {
+            "index": 4,
+            "text": "KH: NGUTH THI",
+            "bbox": [81, 277, 491, 311],
+            "boxes": [
+              {
+                "text": "KH: NGUTH THI",
+                "bbox": [81, 277, 491, 311],
+                "type": "ocr",
+                "score": 1
+              }
+            ]
+          }
+        ]
+      },
+      "items": {
+        "text": "Đo: KB 6.1111 DUONG 10 KP2\nSố điện thoại:\nGB: 11 DM: 0 MTT: 40\nCS Mới: 496 CS cũ: 17",
+        "bbox": [77, 324, 704, 506],
+        "lines": [
+          {
+            "index": 5,
+            "text": "Đo: KB 6.1111 DUONG 10 KP2",
+            "bbox": [81, 324, 527, 353],
+            "boxes": [
+              {
+                "text": "Đo: KB 6.1111 DUONG 10 KP2",
+                "bbox": [81, 324, 527, 353],
+                "type": "ocr",
+                "score": 1
+              }
+            ]
+          },
+          {
+            "index": 6,
+            "text": "Số điện thoại:",
+            "bbox": [81, 360, 264, 394],
+            "boxes": [
+              {
+                "text": "Số điện thoại:",
+                "bbox": [81, 360, 264, 394],
+                "type": "ocr",
+                "score": 1
+              }
+            ]
+          },
+          {
+            "index": 7,
+            "text": "GB: 11 DM: 0 MTT: 40",
+            "bbox": [78, 407, 704, 467],
+            "boxes": [
+              {
+                "text": "GB:",
+                "bbox": [78, 407, 137, 441],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "11",
+                "bbox": [209, 413, 245, 446],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "DM:",
+                "bbox": [309, 417, 374, 449],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "0",
+                "bbox": [445, 426, 467, 455],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "MTT:",
+                "bbox": [536, 429, 613, 460],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "40",
+                "bbox": [666, 434, 704, 467],
+                "type": "ocr",
+                "score": 1
+              }
+            ]
+          },
+          {
+            "index": 8,
+            "text": "CS Mới: 496 CS cũ: 17",
+            "bbox": [77, 448, 615, 506],
+            "boxes": [
+              {
+                "text": "CS Mới:",
+                "bbox": [77, 448, 192, 482],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "496",
+                "bbox": [281, 457, 332, 491],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "CS cũ:",
+                "bbox": [411, 462, 500, 498],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "17",
+                "bbox": [576, 472, 615, 506],
+                "type": "ocr",
+                "score": 1
+              }
+            ]
+          }
+        ]
+      },
+      "totals": {
+        "text": "Tiêu thụ:\nTiền nước: 479 m3\nTHUẾ GTGT 5%: 6.514.400 đ\nPHÍ BVMT 10%: 325.720 đ\nTổng: 651.440 đ THONG NHI TỌNN DY TH THÀNH ĐƯỜNG THỊ NHINH ĐINH\n7.491.560 đ",
+        "bbox": [71, 357, 837, 940],
+        "lines": [
+          {
+            "index": 9,
+            "text": "Tiêu thụ:",
+            "bbox": [77, 490, 209, 525],
+            "boxes": [
+              {
+                "text": "Tiêu thụ:",
+                "bbox": [77, 490, 209, 525],
+                "type": "ocr",
+                "score": 1
+              }
+            ]
+          },
+          {
+            "index": 10,
+            "text": "Tiền nước: 479 m3",
+            "bbox": [77, 513, 713, 565],
+            "boxes": [
+              {
+                "text": "Tiền nước:",
+                "bbox": [77, 530, 220, 565],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "479 m3",
+                "bbox": [591, 513, 713, 548],
+                "type": "ocr",
+                "score": 1
+              }
+            ]
+          },
+          {
+            "index": 11,
+            "text": "THUẾ GTGT 5%: 6.514.400 đ",
+            "bbox": [77, 557, 773, 605],
+            "boxes": [
+              {
+                "text": "THUẾ GTGT 5%:",
+                "bbox": [77, 571, 296, 605],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "6.514.400 đ",
+                "bbox": [611, 557, 773, 587],
+                "type": "ocr",
+                "score": 1
+              }
+            ]
+          },
+          {
+            "index": 12,
+            "text": "PHÍ BVMT 10%: 325.720 đ",
+            "bbox": [76, 597, 767, 648],
+            "boxes": [
+              {
+                "text": "PHÍ BVMT 10%:",
+                "bbox": [76, 618, 293, 648],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "325.720 đ",
+                "bbox": [632, 597, 767, 627],
+                "type": "ocr",
+                "score": 1
+              }
+            ]
+          },
+          {
+            "index": 13,
+            "text": "Tổng: 651.440 đ THONG NHI TỌNN DY TH THÀNH ĐƯỜNG THỊ NHINH ĐINH",
+            "bbox": [71, 357, 837, 940],
+            "boxes": [
+              {
+                "text": "Tổng:",
+                "bbox": [71, 650, 162, 693],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "651.440 đ",
+                "bbox": [628, 639, 764, 670],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "THONG NHI TỌNN DY TH THÀNH ĐƯỜNG THỊ NHINH ĐINH",
+                "bbox": [807, 357, 837, 940],
+                "type": "ocr",
+                "score": 1
+              }
+            ]
+          },
+          {
+            "index": 14,
+            "text": "7.491.560 đ",
+            "bbox": [604, 678, 762, 709],
+            "boxes": [
+              {
+                "text": "7.491.560 đ",
+                "bbox": [604, 678, 762, 709],
+                "type": "ocr",
+                "score": 1
+              }
+            ]
+          }
+        ]
+      },
+      "footer": {
+        "text": "Nhân viên: Trần Anh Dũng\nĐiện thoại: PHA 0989 756-11\nNgày gửi giấy báo: 21/10/2021 11:53:26\nQuý khách vui lòng kiểm tra lại số điện thoại t- nha hiêu\nbáo này và cập nhật chính xác số điện thoạn tri\nwaww capnuocthuduc.vn hoặc giện",
+        "bbox": [69, 741, 770, 984],
+        "lines": [
+          {
+            "index": 15,
+            "text": "Nhân viên: Trần Anh Dũng",
+            "bbox": [71, 741, 706, 788],
+            "boxes": [
+              {
+                "text": "Nhân viên:",
+                "bbox": [71, 741, 217, 775],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "Trần Anh Dũng",
+                "bbox": [503, 752, 706, 788],
+                "type": "ocr",
+                "score": 1
+              }
+            ]
+          },
+          {
+            "index": 16,
+            "text": "Điện thoại: PHA 0989 756-11",
+            "bbox": [70, 785, 679, 829],
+            "boxes": [
+              {
+                "text": "Điện thoại:",
+                "bbox": [70, 785, 214, 816],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "PHA",
+                "bbox": [406, 801, 477, 824],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "0989 756-11",
+                "bbox": [510, 795, 679, 829],
+                "type": "ocr",
+                "score": 1
+              }
+            ]
+          },
+          {
+            "index": 17,
+            "text": "Ngày gửi giấy báo: 21/10/2021 11:53:26",
+            "bbox": [70, 828, 576, 860],
+            "boxes": [
+              {
+                "text": "Ngày gửi giấy báo: 21/10/2021 11:53:26",
+                "bbox": [70, 828, 576, 860],
+                "type": "ocr",
+                "score": 1
+              }
+            ]
+          },
+          {
+            "index": 18,
+            "text": "Quý khách vui lòng kiểm tra lại số điện thoại t- nha hiêu",
+            "bbox": [71, 869, 770, 905],
+            "boxes": [
+              {
+                "text": "Quý khách vui lòng kiểm tra lại số điện thoại t- nha",
+                "bbox": [71, 869, 674, 901],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "hiêu",
+                "bbox": [720, 885, 770, 905],
+                "type": "ocr",
+                "score": 1
+              }
+            ]
+          },
+          {
+            "index": 19,
+            "text": "báo này và cập nhật chính xác số điện thoạn tri",
+            "bbox": [69, 910, 617, 942],
+            "boxes": [
+              {
+                "text": "báo này và cập nhật chính xác số điện thoạn tri",
+                "bbox": [69, 910, 617, 942],
+                "type": "ocr",
+                "score": 1
+              }
+            ]
+          },
+          {
+            "index": 20,
+            "text": "waww capnuocthuduc.vn hoặc giện",
+            "bbox": [106, 954, 617, 984],
+            "boxes": [
+              {
+                "text": "waww capnuocthuduc.vn hoặc giện",
+                "bbox": [106, 954, 617, 984],
+                "type": "ocr",
+                "score": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "items": [
+      {
+        "name": "Đo: KB 6.",
+        "quantity": null,
+        "unit_price": null,
+        "line_total": 1111,
+        "raw_text": "Đo: KB 6.1111 DUONG 10 KP2",
+        "bbox": [81, 324, 527, 353]
+      }
+    ],
+    "boxes": [
+      {
+        "text": "CAL",
+        "bbox": [484, 0, 547, 21],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "Từ ngày: 22/09/2021",
+        "bbox": [135, 158, 403, 192],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "đến ngày: 21/10/2021",
+        "bbox": [452, 174, 721, 208],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "Danh bộ:",
+        "bbox": [84, 196, 210, 231],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "TINTING",
+        "bbox": [373, 223, 547, 269],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "KH: NGUTH THI",
+        "bbox": [81, 277, 491, 311],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "Đo: KB 6.1111 DUONG 10 KP2",
+        "bbox": [81, 324, 527, 353],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "Số điện thoại:",
+        "bbox": [81, 360, 264, 394],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "THONG NHI TỌNN DY TH THÀNH ĐƯỜNG THỊ NHINH ĐINH",
+        "bbox": [807, 357, 837, 940],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "GB:",
+        "bbox": [78, 407, 137, 441],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "11",
+        "bbox": [209, 413, 245, 446],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "DM:",
+        "bbox": [309, 417, 374, 449],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "0",
+        "bbox": [445, 426, 467, 455],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "MTT:",
+        "bbox": [536, 429, 613, 460],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "40",
+        "bbox": [666, 434, 704, 467],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "CS Mới:",
+        "bbox": [77, 448, 192, 482],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "496",
+        "bbox": [281, 457, 332, 491],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "CS cũ:",
+        "bbox": [411, 462, 500, 498],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "17",
+        "bbox": [576, 472, 615, 506],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "Tiêu thụ:",
+        "bbox": [77, 490, 209, 525],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "479 m3",
+        "bbox": [591, 513, 713, 548],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "Tiền nước:",
+        "bbox": [77, 530, 220, 565],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "6.514.400 đ",
+        "bbox": [611, 557, 773, 587],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "THUẾ GTGT 5%:",
+        "bbox": [77, 571, 296, 605],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "325.720 đ",
+        "bbox": [632, 597, 767, 627],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "PHÍ BVMT 10%:",
+        "bbox": [76, 618, 293, 648],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "651.440 đ",
+        "bbox": [628, 639, 764, 670],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "Tổng:",
+        "bbox": [71, 650, 162, 693],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "7.491.560 đ",
+        "bbox": [604, 678, 762, 709],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "Nhân viên:",
+        "bbox": [71, 741, 217, 775],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "Trần Anh Dũng",
+        "bbox": [503, 752, 706, 788],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "Điện thoại:",
+        "bbox": [70, 785, 214, 816],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "PHA",
+        "bbox": [406, 801, 477, 824],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "0989 756-11",
+        "bbox": [510, 795, 679, 829],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "Ngày gửi giấy báo: 21/10/2021 11:53:26",
+        "bbox": [70, 828, 576, 860],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "Quý khách vui lòng kiểm tra lại số điện thoại t- nha",
+        "bbox": [71, 869, 674, 901],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "hiêu",
+        "bbox": [720, 885, 770, 905],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "báo này và cập nhật chính xác số điện thoạn tri",
+        "bbox": [69, 910, 617, 942],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "waww capnuocthuduc.vn hoặc giện",
+        "bbox": [106, 954, 617, 984],
+        "type": "ocr",
+        "score": 1
+      }
+    ]
+  }
+}
