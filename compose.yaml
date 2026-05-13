@@ -11,8 +11,10 @@ services:
   server:
     build:
       context: .
+    environment:
+      PORT: 6969
     ports:
-      - 6969:6969
+      - "6969:6969"
 
 # The commented out section below is an example of how to define a PostgreSQL
 # database that your application can use. `depends_on` tells Docker Compose to
@@ -46,4 +48,3 @@ services:
 # secrets:
 #   db-password:
 #     file: db/password.txt
-

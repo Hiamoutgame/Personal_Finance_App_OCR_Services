@@ -1,5 +1,5 @@
 numpy
-opencv-python
+opencv-python-headless
 onnxruntime
 torch
 torchvision
@@ -11,6 +11,9 @@ shapely
 pyclipper
 ruamel.yaml
 cachetools
+filelock
+pycryptodome
+requests
 six
 trio
 fastapi
