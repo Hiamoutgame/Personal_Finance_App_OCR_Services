@@ -15,7 +15,12 @@
 #
 from enum import Enum
 from enum import IntEnum
-from enum import StrEnum
+
+try:
+    from enum import StrEnum
+except ImportError:
+    class StrEnum(str, Enum):
+        pass
 
 
 class StatusEnum(Enum):

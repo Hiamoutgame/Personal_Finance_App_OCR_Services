@@ -11,6 +11,8 @@ services:
   server:
     build:
       context: .
+      args:
+        PYTHON_VERSION: 3.12.10
     environment:
       PORT: 6969
     ports:
