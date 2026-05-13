@@ -17,4 +17,4 @@ EXPOSE 6969
 # Lệnh để chạy ứng dụng khi container khởi động
 # Chạy trên host 0.0.0.0 để có thể truy cập từ bên ngoài container
 # Render.com sẽ tự động cung cấp biến môi trường PORT
-CMD ["uvicorn", "ocr_api:app", "--host", "0.0.0.0", "--port", "6969"]
+CMD ["uvicorn", "ocr_api:app", "--host", "0.0.0.0", "--port", "$PORT"]

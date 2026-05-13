@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: ocr-service
+    env: docker
+    plan: free # Hoặc chọn plan phù hợp với bạn
+    dockerfilePath: ./Dockerfile
+    healthCheck:
+      path: /health
+    envVars:
+      - key: PORT
+        value: 6969
+      - key: PYTHON_VERSION
+        value: 3.10.0
+      - key: UVICORN_HOST
+        value: 0.0.0.0
