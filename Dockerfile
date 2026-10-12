@@ -1,60 +1,31 @@
 # syntax=docker/dockerfile:1
-
-# Comments are provided throughout this file to help you get started.
-# If you need more help, visit the Dockerfile reference guide at
-# https://docs.docker.com/go/dockerfile-reference/
-
-# Want to help us make this template better? Share your feedback here: https://forms.gle/ybq9Krt8jtBL3iCk7
-
 ARG PYTHON_VERSION=3.12.10
-FROM python:${PYTHON_VERSION}-slim AS base
+FROM python:${PYTHON_VERSION}-slim
 
-# Prevents Python from writing pyc files.
-ENV PYTHONDONTWRITEBYTECODE=1
-
-# Keeps Python from buffering stdout and stderr to avoid situations where
-# the application crashes without emitting any logs due to buffering.
-ENV PYTHONUNBUFFERED=1
-ENV HOME=/tmp \
-    HF_HOME=/tmp/huggingface \
-    MPLCONFIGDIR=/tmp/matplotlib \
+ENV PYTHONDONTWRITEBYTECODE=1 \
+    PYTHONUNBUFFERED=1 \
+    HOST=0.0.0.0 \
     PORT=6969
-
 WORKDIR /app
 
 RUN apt-get update \
     && apt-get install -y --no-install-recommends libgomp1 libglib2.0-0 \
-    && rm -rf /var/lib/apt/lists/*
+    && rm -rf /var/lib/apt/lists/* \
+    && useradd --uid 10001 --create-home appuser
 
-# Create a non-privileged user that the app will run under.
-# See https://docs.docker.com/go/dockerfile-user-best-practices/
-ARG UID=10001
-RUN adduser \
-    --disabled-password \
-    --gecos "" \
-    --home "/nonexistent" \
-    --shell "/sbin/nologin" \
-    --no-create-home \
-    --uid "${UID}" \
-    appuser
-
-# Download dependencies as a separate step to take advantage of Docker's caching.
-# Leverage a cache mount to /root/.cache/pip to speed up subsequent builds.
-# Leverage a bind mount to requirements.txt to avoid having to copy them into
-# into this layer.
+COPY pyproject.toml ./
 RUN --mount=type=cache,target=/root/.cache/pip \
-    --mount=type=bind,source=requirements.txt,target=requirements.txt \
-    python -m pip install --upgrade pip \
-    && python -m pip install -r requirements.txt
+    python -c "import tomllib; print('\n'.join(tomllib.load(open('pyproject.toml', 'rb'))['project']['dependencies']))" > /tmp/requirements.txt \
+    && pip install -r /tmp/requirements.txt
+COPY src/ ./src/
+RUN pip install --no-deps .
+COPY ocr_api.py ./
+COPY models/onnx/det.onnx models/onnx/layout.onnx ./models/onnx/
+COPY models/vietocr/weight/cnn.onnx models/vietocr/weight/encoder.onnx models/vietocr/weight/decoder.onnx ./models/vietocr/weight/
+COPY models/vietocr/config/base.yml ./models/vietocr/config/
 
-# Copy the source code into the container.
-COPY --chown=appuser:appuser . .
-
-# Switch to the non-privileged user to run the application.
 USER appuser
-
-# Expose the port that the application listens on.
 EXPOSE 6969
-
-# Run the application.
-CMD ["sh", "-c", "uvicorn ocr_api:app --host 0.0.0.0 --port ${PORT:-6969}"]
+HEALTHCHECK --interval=30s --timeout=5s --start-period=120s --retries=3 \
+    CMD python -c "import os,urllib.request; urllib.request.urlopen('http://127.0.0.1:'+os.environ.get('PORT','6969')+'/health',timeout=4)"
+CMD ["python", "ocr_api.py"]

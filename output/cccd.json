@@ -1,0 +1,656 @@
+{
+  "text": "Có giá trị đến 1 0//88/2030\nResis\nI\nVĩnh Hòa, Phú Giáo, Bình Dương\nNơi thường trú / Place ofresidence Ấp Vĩnh Tiến\nGiới tính/ Sex Nam Quốc tịch / Nationality: Việt Nam\nNgày sinh / Date of birth: 11/08/2005\nĐẶNG QUANG HIÊN\nSố 10044005001386\nCitizen Identity Card O\nCĂN CƯỚC CÔNG DÂN\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nHọ và tên I Full name:\n0\nSOCIALIST REPUBLIC OF VIET NAM\nĐộc lập Tự do - Hanh phúc\nAS\nT",
+  "layout": "invoice",
+  "pages": [
+    {
+      "page": 1,
+      "text": "Có giá trị đến 1 0//88/2030\nResis\nI\nVĩnh Hòa, Phú Giáo, Bình Dương\nNơi thường trú / Place ofresidence Ấp Vĩnh Tiến\nGiới tính/ Sex Nam Quốc tịch / Nationality: Việt Nam\nNgày sinh / Date of birth: 11/08/2005\nĐẶNG QUANG HIÊN\nSố 10044005001386\nCitizen Identity Card O\nCĂN CƯỚC CÔNG DÂN\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nHọ và tên I Full name:\n0\nSOCIALIST REPUBLIC OF VIET NAM\nĐộc lập Tự do - Hanh phúc\nAS\nT",
+      "invoice": {
+        "layout_config": {
+          "type": "invoice",
+          "sections": {
+            "header": {
+              "description": "Store/vendor, title, address, contact, invoice metadata."
+            },
+            "items": {
+              "description": "Purchased goods/services, quantities, unit prices, and line totals."
+            },
+            "totals": {
+              "description": "Subtotal, tax, fees, total, payment, and remaining amount.",
+              "keywords": [
+                "tong",
+                "tong cong",
+                "thanh toan",
+                "khach dua",
+                "no lai",
+                "tien nuoc",
+                "thue",
+                "vat",
+                "gtgt",
+                "phi",
+                "phu phi",
+                "tieu thu"
+              ]
+            },
+            "footer": {
+              "description": "Cashier/staff, thanks text, print time, website, and hotline.",
+              "keywords": [
+                "cam on",
+                "nhan vien",
+                "dien thoai",
+                "ngay gui",
+                "in luc",
+                "hotline",
+                "www"
+              ]
+            }
+          },
+          "item_header_keywords": [
+            "description",
+            "dien giai",
+            "ten hang",
+            "mat hang",
+            "don gia",
+            "so luong",
+            "qty"
+          ]
+        },
+        "image": {
+          "width": 1444,
+          "height": 2568
+        },
+        "text": "Có giá trị đến 1 0//88/2030\nResis\nI\nVĩnh Hòa, Phú Giáo, Bình Dương\nNơi thường trú / Place ofresidence Ấp Vĩnh Tiến\nGiới tính/ Sex Nam Quốc tịch / Nationality: Việt Nam\nNgày sinh / Date of birth: 11/08/2005\nĐẶNG QUANG HIÊN\nSố 10044005001386\nCitizen Identity Card O\nCĂN CƯỚC CÔNG DÂN\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nHọ và tên I Full name:\n0\nSOCIALIST REPUBLIC OF VIET NAM\nĐộc lập Tự do - Hanh phúc\nAS\nT",
+        "fields": {
+          "dates": ["11/08/2005"],
+          "phones": []
+        },
+        "sections": {
+          "header": {
+            "text": "Resis Có giá trị đến 1 0//88/2030 0 I\nVĩnh Hòa, Phú Giáo, Bình Dương Nơi thường trú / Place ofresidence Ấp Vĩnh Tiến Giới tính/ Sex Nam Quốc tịch / Nationality: Việt Nam Ngày sinh / Date of birth: 11/08/2005 ĐẶNG QUANG HIÊN Họ và tên I Full name: Số 10044005001386 Citizen Identity Card O CĂN CƯỚC CÔNG DÂN SOCIALIST REPUBLIC OF VIET NAM Độc lập Tự do - Hanh phúc CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nT AS",
+            "bbox": [216, 483, 1091, 1862],
+            "lines": [
+              {
+                "index": 0,
+                "text": "Resis Có giá trị đến 1 0//88/2030 0 I",
+                "bbox": [216, 483, 507, 968],
+                "boxes": [
+                  {
+                    "text": "Resis",
+                    "bbox": [216, 669, 239, 732],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "Có giá trị đến 1 0//88/2030",
+                    "bbox": [254, 483, 318, 886],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "0",
+                    "bbox": [385, 936, 403, 968],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "I",
+                    "bbox": [472, 669, 507, 693],
+                    "type": "ocr",
+                    "score": 1
+                  }
+                ]
+              },
+              {
+                "index": 1,
+                "text": "Vĩnh Hòa, Phú Giáo, Bình Dương Nơi thường trú / Place ofresidence Ấp Vĩnh Tiến Giới tính/ Sex Nam Quốc tịch / Nationality: Việt Nam Ngày sinh / Date of birth: 11/08/2005 ĐẶNG QUANG HIÊN Họ và tên I Full name: Số 10044005001386 Citizen Identity Card O CĂN CƯỚC CÔNG DÂN SOCIALIST REPUBLIC OF VIET NAM Độc lập Tự do - Hanh phúc CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+                "bbox": [236, 888, 1091, 1862],
+                "boxes": [
+                  {
+                    "text": "Vĩnh Hòa, Phú Giáo, Bình Dương",
+                    "bbox": [236, 892, 297, 1627],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "Nơi thường trú / Place ofresidence Ấp Vĩnh Tiến",
+                    "bbox": [294, 892, 355, 1742],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "Giới tính/ Sex Nam Quốc tịch / Nationality: Việt Nam",
+                    "bbox": [445, 892, 520, 1862],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "Ngày sinh / Date of birth: 11/08/2005",
+                    "bbox": [517, 897, 573, 1563],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "ĐẶNG QUANG HIÊN",
+                    "bbox": [576, 894, 629, 1445],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "Họ và tên I Full name:",
+                    "bbox": [634, 900, 679, 1258],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "Số 10044005001386",
+                    "bbox": [687, 891, 759, 1544],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "Citizen Identity Card O",
+                    "bbox": [766, 896, 830, 1309],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "CĂN CƯỚC CÔNG DÂN",
+                    "bbox": [849, 894, 921, 1594],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "SOCIALIST REPUBLIC OF VIET NAM",
+                    "bbox": [953, 985, 1006, 1485],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "Độc lập Tự do - Hanh phúc",
+                    "bbox": [1009, 1038, 1043, 1439],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+                    "bbox": [1038, 888, 1091, 1597],
+                    "type": "ocr",
+                    "score": 1
+                  }
+                ]
+              },
+              {
+                "index": 2,
+                "text": "T AS",
+                "bbox": [637, 1775, 805, 1843],
+                "boxes": [
+                  {
+                    "text": "T",
+                    "bbox": [637, 1802, 696, 1843],
+                    "type": "ocr",
+                    "score": 1
+                  },
+                  {
+                    "text": "AS",
+                    "bbox": [733, 1775, 805, 1829],
+                    "type": "ocr",
+                    "score": 1
+                  }
+                ]
+              }
+            ]
+          },
+          "items": {
+            "text": "",
+            "bbox": null,
+            "lines": []
+          },
+          "totals": {
+            "text": "",
+            "bbox": null,
+            "lines": []
+          },
+          "footer": {
+            "text": "",
+            "bbox": null,
+            "lines": []
+          }
+        },
+        "items": [],
+        "boxes": [
+          {
+            "text": "Có giá trị đến 1 0//88/2030",
+            "bbox": [254, 483, 318, 886],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "Resis",
+            "bbox": [216, 669, 239, 732],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "I",
+            "bbox": [472, 669, 507, 693],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "Vĩnh Hòa, Phú Giáo, Bình Dương",
+            "bbox": [236, 892, 297, 1627],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "Nơi thường trú / Place ofresidence Ấp Vĩnh Tiến",
+            "bbox": [294, 892, 355, 1742],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "Giới tính/ Sex Nam Quốc tịch / Nationality: Việt Nam",
+            "bbox": [445, 892, 520, 1862],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "Ngày sinh / Date of birth: 11/08/2005",
+            "bbox": [517, 897, 573, 1563],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "ĐẶNG QUANG HIÊN",
+            "bbox": [576, 894, 629, 1445],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "Số 10044005001386",
+            "bbox": [687, 891, 759, 1544],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "Citizen Identity Card O",
+            "bbox": [766, 896, 830, 1309],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "CĂN CƯỚC CÔNG DÂN",
+            "bbox": [849, 894, 921, 1594],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+            "bbox": [1038, 888, 1091, 1597],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "Họ và tên I Full name:",
+            "bbox": [634, 900, 679, 1258],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "0",
+            "bbox": [385, 936, 403, 968],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "SOCIALIST REPUBLIC OF VIET NAM",
+            "bbox": [953, 985, 1006, 1485],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "Độc lập Tự do - Hanh phúc",
+            "bbox": [1009, 1038, 1043, 1439],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "AS",
+            "bbox": [733, 1775, 805, 1829],
+            "type": "ocr",
+            "score": 1
+          },
+          {
+            "text": "T",
+            "bbox": [637, 1802, 696, 1843],
+            "type": "ocr",
+            "score": 1
+          }
+        ]
+      }
+    }
+  ],
+  "invoice": {
+    "layout_config": {
+      "type": "invoice",
+      "sections": {
+        "header": {
+          "description": "Store/vendor, title, address, contact, invoice metadata."
+        },
+        "items": {
+          "description": "Purchased goods/services, quantities, unit prices, and line totals."
+        },
+        "totals": {
+          "description": "Subtotal, tax, fees, total, payment, and remaining amount.",
+          "keywords": [
+            "tong",
+            "tong cong",
+            "thanh toan",
+            "khach dua",
+            "no lai",
+            "tien nuoc",
+            "thue",
+            "vat",
+            "gtgt",
+            "phi",
+            "phu phi",
+            "tieu thu"
+          ]
+        },
+        "footer": {
+          "description": "Cashier/staff, thanks text, print time, website, and hotline.",
+          "keywords": [
+            "cam on",
+            "nhan vien",
+            "dien thoai",
+            "ngay gui",
+            "in luc",
+            "hotline",
+            "www"
+          ]
+        }
+      },
+      "item_header_keywords": [
+        "description",
+        "dien giai",
+        "ten hang",
+        "mat hang",
+        "don gia",
+        "so luong",
+        "qty"
+      ]
+    },
+    "image": {
+      "width": 1444,
+      "height": 2568
+    },
+    "text": "Có giá trị đến 1 0//88/2030\nResis\nI\nVĩnh Hòa, Phú Giáo, Bình Dương\nNơi thường trú / Place ofresidence Ấp Vĩnh Tiến\nGiới tính/ Sex Nam Quốc tịch / Nationality: Việt Nam\nNgày sinh / Date of birth: 11/08/2005\nĐẶNG QUANG HIÊN\nSố 10044005001386\nCitizen Identity Card O\nCĂN CƯỚC CÔNG DÂN\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nHọ và tên I Full name:\n0\nSOCIALIST REPUBLIC OF VIET NAM\nĐộc lập Tự do - Hanh phúc\nAS\nT",
+    "fields": {
+      "dates": ["11/08/2005"],
+      "phones": []
+    },
+    "sections": {
+      "header": {
+        "text": "Resis Có giá trị đến 1 0//88/2030 0 I\nVĩnh Hòa, Phú Giáo, Bình Dương Nơi thường trú / Place ofresidence Ấp Vĩnh Tiến Giới tính/ Sex Nam Quốc tịch / Nationality: Việt Nam Ngày sinh / Date of birth: 11/08/2005 ĐẶNG QUANG HIÊN Họ và tên I Full name: Số 10044005001386 Citizen Identity Card O CĂN CƯỚC CÔNG DÂN SOCIALIST REPUBLIC OF VIET NAM Độc lập Tự do - Hanh phúc CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nT AS",
+        "bbox": [216, 483, 1091, 1862],
+        "lines": [
+          {
+            "index": 0,
+            "text": "Resis Có giá trị đến 1 0//88/2030 0 I",
+            "bbox": [216, 483, 507, 968],
+            "boxes": [
+              {
+                "text": "Resis",
+                "bbox": [216, 669, 239, 732],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "Có giá trị đến 1 0//88/2030",
+                "bbox": [254, 483, 318, 886],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "0",
+                "bbox": [385, 936, 403, 968],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "I",
+                "bbox": [472, 669, 507, 693],
+                "type": "ocr",
+                "score": 1
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "text": "Vĩnh Hòa, Phú Giáo, Bình Dương Nơi thường trú / Place ofresidence Ấp Vĩnh Tiến Giới tính/ Sex Nam Quốc tịch / Nationality: Việt Nam Ngày sinh / Date of birth: 11/08/2005 ĐẶNG QUANG HIÊN Họ và tên I Full name: Số 10044005001386 Citizen Identity Card O CĂN CƯỚC CÔNG DÂN SOCIALIST REPUBLIC OF VIET NAM Độc lập Tự do - Hanh phúc CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+            "bbox": [236, 888, 1091, 1862],
+            "boxes": [
+              {
+                "text": "Vĩnh Hòa, Phú Giáo, Bình Dương",
+                "bbox": [236, 892, 297, 1627],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "Nơi thường trú / Place ofresidence Ấp Vĩnh Tiến",
+                "bbox": [294, 892, 355, 1742],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "Giới tính/ Sex Nam Quốc tịch / Nationality: Việt Nam",
+                "bbox": [445, 892, 520, 1862],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "Ngày sinh / Date of birth: 11/08/2005",
+                "bbox": [517, 897, 573, 1563],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "ĐẶNG QUANG HIÊN",
+                "bbox": [576, 894, 629, 1445],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "Họ và tên I Full name:",
+                "bbox": [634, 900, 679, 1258],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "Số 10044005001386",
+                "bbox": [687, 891, 759, 1544],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "Citizen Identity Card O",
+                "bbox": [766, 896, 830, 1309],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "CĂN CƯỚC CÔNG DÂN",
+                "bbox": [849, 894, 921, 1594],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "SOCIALIST REPUBLIC OF VIET NAM",
+                "bbox": [953, 985, 1006, 1485],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "Độc lập Tự do - Hanh phúc",
+                "bbox": [1009, 1038, 1043, 1439],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+                "bbox": [1038, 888, 1091, 1597],
+                "type": "ocr",
+                "score": 1
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "text": "T AS",
+            "bbox": [637, 1775, 805, 1843],
+            "boxes": [
+              {
+                "text": "T",
+                "bbox": [637, 1802, 696, 1843],
+                "type": "ocr",
+                "score": 1
+              },
+              {
+                "text": "AS",
+                "bbox": [733, 1775, 805, 1829],
+                "type": "ocr",
+                "score": 1
+              }
+            ]
+          }
+        ]
+      },
+      "items": {
+        "text": "",
+        "bbox": null,
+        "lines": []
+      },
+      "totals": {
+        "text": "",
+        "bbox": null,
+        "lines": []
+      },
+      "footer": {
+        "text": "",
+        "bbox": null,
+        "lines": []
+      }
+    },
+    "items": [],
+    "boxes": [
+      {
+        "text": "Có giá trị đến 1 0//88/2030",
+        "bbox": [254, 483, 318, 886],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "Resis",
+        "bbox": [216, 669, 239, 732],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "I",
+        "bbox": [472, 669, 507, 693],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "Vĩnh Hòa, Phú Giáo, Bình Dương",
+        "bbox": [236, 892, 297, 1627],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "Nơi thường trú / Place ofresidence Ấp Vĩnh Tiến",
+        "bbox": [294, 892, 355, 1742],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "Giới tính/ Sex Nam Quốc tịch / Nationality: Việt Nam",
+        "bbox": [445, 892, 520, 1862],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "Ngày sinh / Date of birth: 11/08/2005",
+        "bbox": [517, 897, 573, 1563],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "ĐẶNG QUANG HIÊN",
+        "bbox": [576, 894, 629, 1445],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "Số 10044005001386",
+        "bbox": [687, 891, 759, 1544],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "Citizen Identity Card O",
+        "bbox": [766, 896, 830, 1309],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "CĂN CƯỚC CÔNG DÂN",
+        "bbox": [849, 894, 921, 1594],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+        "bbox": [1038, 888, 1091, 1597],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "Họ và tên I Full name:",
+        "bbox": [634, 900, 679, 1258],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "0",
+        "bbox": [385, 936, 403, 968],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "SOCIALIST REPUBLIC OF VIET NAM",
+        "bbox": [953, 985, 1006, 1485],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "Độc lập Tự do - Hanh phúc",
+        "bbox": [1009, 1038, 1043, 1439],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "AS",
+        "bbox": [733, 1775, 805, 1829],
+        "type": "ocr",
+        "score": 1
+      },
+      {
+        "text": "T",
+        "bbox": [637, 1802, 696, 1843],
+        "type": "ocr",
+        "score": 1
+      }
+    ]
+  }
+}

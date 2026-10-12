@@ -1,0 +1,1 @@
+"""Vendored recognition code."""
